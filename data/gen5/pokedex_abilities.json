@@ -1,0 +1,3229 @@
+{
+  "abomasnow": {
+    "abilities": [
+      "snowwarning",
+      "soundproof"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "snowwarning"
+  },
+  "absol": {
+    "abilities": [
+      "pressure",
+      "superluck",
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "accelgor": {
+    "abilities": [
+      "hydration",
+      "stickyhold",
+      "unburden"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hydration"
+  },
+  "aerodactyl": {
+    "abilities": [
+      "rockhead",
+      "pressure",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "rockhead"
+  },
+  "aggron": {
+    "abilities": [
+      "sturdy",
+      "rockhead",
+      "heavymetal"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "alakazam": {
+    "abilities": [
+      "synchronize",
+      "innerfocus",
+      "magicguard"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "synchronize"
+  },
+  "alomomola": {
+    "abilities": [
+      "healer",
+      "hydration",
+      "regenerator"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "healer"
+  },
+  "altaria": {
+    "abilities": [
+      "naturalcure",
+      "cloudnine"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "naturalcure"
+  },
+  "ambipom": {
+    "abilities": [
+      "technician",
+      "pickup",
+      "skilllink"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "technician"
+  },
+  "amoonguss": {
+    "abilities": [
+      "effectspore",
+      "regenerator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "effectspore"
+  },
+  "ampharos": {
+    "abilities": [
+      "static",
+      "plus"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "static"
+  },
+  "arbok": {
+    "abilities": [
+      "intimidate",
+      "shedskin",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "arcanine": {
+    "abilities": [
+      "intimidate",
+      "flashfire",
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "arceus": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "multitype"
+  },
+  "arceusbug": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusdark": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusdragon": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "multitype"
+  },
+  "arceuselectric": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusfighting": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusfire": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusflying": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusghost": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusgrass": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusground": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "multitype"
+  },
+  "arceusice": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceuspoison": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "multitype"
+  },
+  "arceuspsychic": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "arceusrock": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "multitype"
+  },
+  "arceussteel": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "multitype"
+  },
+  "arceuswater": {
+    "abilities": [
+      "multitype"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "multitype"
+  },
+  "archeops": {
+    "abilities": [
+      "defeatist"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "defeatist"
+  },
+  "ariados": {
+    "abilities": [
+      "swarm",
+      "insomnia",
+      "sniper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "armaldo": {
+    "abilities": [
+      "battlearmor",
+      "swiftswim"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "battlearmor"
+  },
+  "articuno": {
+    "abilities": [
+      "pressure",
+      "snowcloak"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "pressure"
+  },
+  "audino": {
+    "abilities": [
+      "healer",
+      "regenerator",
+      "klutz"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "healer"
+  },
+  "azelf": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "azumarill": {
+    "abilities": [
+      "thickfat",
+      "hugepower",
+      "sapsipper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "thickfat"
+  },
+  "banette": {
+    "abilities": [
+      "insomnia",
+      "frisk",
+      "cursedbody"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "insomnia"
+  },
+  "basculin": {
+    "abilities": [
+      "reckless",
+      "adaptability",
+      "moldbreaker"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "reckless"
+  },
+  "bastiodon": {
+    "abilities": [
+      "sturdy",
+      "soundproof"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "beartic": {
+    "abilities": [
+      "snowcloak",
+      "slushrush",
+      "swiftswim"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "snowcloak"
+  },
+  "beautifly": {
+    "abilities": [
+      "swarm",
+      "rivalry"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swarm"
+  },
+  "beedrill": {
+    "abilities": [
+      "swarm",
+      "sniper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "beheeyem": {
+    "abilities": [
+      "telepathy",
+      "synchronize",
+      "analytic"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "telepathy"
+  },
+  "bellossom": {
+    "abilities": [
+      "chlorophyll",
+      "healer"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "chlorophyll"
+  },
+  "bibarel": {
+    "abilities": [
+      "simple",
+      "unaware",
+      "moody"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "simple"
+  },
+  "bisharp": {
+    "abilities": [
+      "defiant",
+      "innerfocus",
+      "pressure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "defiant"
+  },
+  "blastoise": {
+    "abilities": [
+      "torrent",
+      "raindish"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "torrent"
+  },
+  "blaziken": {
+    "abilities": [
+      "blaze",
+      "speedboost"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "blaze"
+  },
+  "blissey": {
+    "abilities": [
+      "naturalcure",
+      "serenegrace",
+      "healer"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "naturalcure"
+  },
+  "bouffalant": {
+    "abilities": [
+      "reckless",
+      "sapsipper",
+      "soundproof"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "reckless"
+  },
+  "braviary": {
+    "abilities": [
+      "keeneye",
+      "sheerforce",
+      "defiant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "breloom": {
+    "abilities": [
+      "effectspore",
+      "poisonheal",
+      "technician"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "effectspore"
+  },
+  "bronzong": {
+    "abilities": [
+      "levitate",
+      "heatproof",
+      "heavymetal"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "butterfree": {
+    "abilities": [
+      "compoundeyes",
+      "tintedlens"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "compoundeyes"
+  },
+  "cacturne": {
+    "abilities": [
+      "sandveil",
+      "waterabsorb"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandveil"
+  },
+  "camerupt": {
+    "abilities": [
+      "magmaarmor",
+      "solidrock",
+      "angerpoint"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "magmaarmor"
+  },
+  "carnivine": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "carracosta": {
+    "abilities": [
+      "solidrock",
+      "sturdy",
+      "swiftswim"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "solidrock"
+  },
+  "castform": {
+    "abilities": [
+      "forecast"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "forecast"
+  },
+  "celebi": {
+    "abilities": [
+      "naturalcure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "naturalcure"
+  },
+  "chandelure": {
+    "abilities": [
+      "flashfire",
+      "flamebody",
+      "infiltrator"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "flashfire"
+  },
+  "chansey": {
+    "abilities": [
+      "naturalcure",
+      "serenegrace",
+      "healer"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "naturalcure"
+  },
+  "charizard": {
+    "abilities": [
+      "blaze",
+      "solarpower"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "blaze"
+  },
+  "chatot": {
+    "abilities": [
+      "keeneye",
+      "tangledfeet",
+      "bigpecks"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "cherrim": {
+    "abilities": [
+      "flowergift"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "flowergift"
+  },
+  "chimecho": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "cinccino": {
+    "abilities": [
+      "cutecharm",
+      "technician",
+      "skilllink"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "cutecharm"
+  },
+  "claydol": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "clefable": {
+    "abilities": [
+      "cutecharm",
+      "magicguard",
+      "unaware"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "cutecharm"
+  },
+  "cloyster": {
+    "abilities": [
+      "shellarmor",
+      "skilllink",
+      "overcoat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "shellarmor"
+  },
+  "cobalion": {
+    "abilities": [
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "justified"
+  },
+  "cofagrigus": {
+    "abilities": [
+      "mummy"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "mummy"
+  },
+  "conkeldurr": {
+    "abilities": [
+      "guts",
+      "sheerforce",
+      "ironfist"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "guts"
+  },
+  "corsola": {
+    "abilities": [
+      "hustle",
+      "naturalcure",
+      "regenerator"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "hustle"
+  },
+  "cradily": {
+    "abilities": [
+      "suctioncups",
+      "stormdrain"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "suctioncups"
+  },
+  "crawdaunt": {
+    "abilities": [
+      "hypercutter",
+      "shellarmor",
+      "adaptability"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hypercutter"
+  },
+  "cresselia": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "crobat": {
+    "abilities": [
+      "innerfocus",
+      "infiltrator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "innerfocus"
+  },
+  "crustle": {
+    "abilities": [
+      "sturdy",
+      "shellarmor",
+      "weakarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "cryogonal": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "darkrai": {
+    "abilities": [
+      "baddreams"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "baddreams"
+  },
+  "darmanitan": {
+    "abilities": [
+      "sheerforce",
+      "zenmode"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sheerforce"
+  },
+  "delcatty": {
+    "abilities": [
+      "cutecharm",
+      "normalize",
+      "wonderskin"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "cutecharm"
+  },
+  "delibird": {
+    "abilities": [
+      "vitalspirit",
+      "hustle",
+      "insomnia"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "vitalspirit"
+  },
+  "deoxys": {
+    "abilities": [
+      "pressure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "deoxysattack": {
+    "abilities": [
+      "pressure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "deoxysdefense": {
+    "abilities": [
+      "pressure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "deoxysspeed": {
+    "abilities": [
+      "pressure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "dewgong": {
+    "abilities": [
+      "thickfat",
+      "hydration",
+      "icebody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "thickfat"
+  },
+  "dialga": {
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "ditto": {
+    "abilities": [
+      "limber",
+      "imposter"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "limber"
+  },
+  "dodrio": {
+    "abilities": [
+      "runaway",
+      "earlybird",
+      "tangledfeet"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "runaway"
+  },
+  "donphan": {
+    "abilities": [
+      "sturdy",
+      "sandveil"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "dragonair": {
+    "abilities": [
+      "shedskin",
+      "marvelscale"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "shedskin"
+  },
+  "dragonite": {
+    "abilities": [
+      "innerfocus",
+      "multiscale"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "innerfocus"
+  },
+  "drapion": {
+    "abilities": [
+      "battlearmor",
+      "sniper",
+      "keeneye"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "battlearmor"
+  },
+  "drifblim": {
+    "abilities": [
+      "aftermath",
+      "unburden",
+      "flareboost"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "aftermath"
+  },
+  "druddigon": {
+    "abilities": [
+      "roughskin",
+      "sheerforce",
+      "moldbreaker"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "roughskin"
+  },
+  "dugtrio": {
+    "abilities": [
+      "sandveil",
+      "arenatrap",
+      "sandforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandveil"
+  },
+  "dunsparce": {
+    "abilities": [
+      "serenegrace",
+      "runaway",
+      "rattled"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "serenegrace"
+  },
+  "durant": {
+    "abilities": [
+      "swarm",
+      "hustle",
+      "truant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "dusclops": {
+    "abilities": [
+      "pressure",
+      "frisk"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "dusknoir": {
+    "abilities": [
+      "pressure",
+      "frisk"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "dustox": {
+    "abilities": [
+      "shielddust",
+      "compoundeyes"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "shielddust"
+  },
+  "eelektross": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "electivire": {
+    "abilities": [
+      "motordrive",
+      "vitalspirit"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "motordrive"
+  },
+  "electrode": {
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "soundproof"
+  },
+  "emboar": {
+    "abilities": [
+      "blaze",
+      "reckless"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "blaze"
+  },
+  "emolga": {
+    "abilities": [
+      "static",
+      "motordrive"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "static"
+  },
+  "empoleon": {
+    "abilities": [
+      "torrent",
+      "competitive"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "torrent"
+  },
+  "entei": {
+    "abilities": [
+      "pressure",
+      "innerfocus"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "escavalier": {
+    "abilities": [
+      "swarm",
+      "shellarmor",
+      "overcoat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "espeon": {
+    "abilities": [
+      "synchronize",
+      "magicbounce"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "synchronize"
+  },
+  "excadrill": {
+    "abilities": [
+      "sandrush",
+      "sandforce",
+      "moldbreaker"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandrush"
+  },
+  "exeggutor": {
+    "abilities": [
+      "chlorophyll",
+      "harvest"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "chlorophyll"
+  },
+  "exploud": {
+    "abilities": [
+      "soundproof",
+      "scrappy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "soundproof"
+  },
+  "farfetchd": {
+    "abilities": [
+      "keeneye",
+      "innerfocus",
+      "defiant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "fearow": {
+    "abilities": [
+      "keeneye",
+      "sniper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "feraligatr": {
+    "abilities": [
+      "torrent",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "torrent"
+  },
+  "ferrothorn": {
+    "abilities": [
+      "ironbarbs",
+      "anticipation"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "ironbarbs"
+  },
+  "flareon": {
+    "abilities": [
+      "flashfire",
+      "guts"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "flashfire"
+  },
+  "floatzel": {
+    "abilities": [
+      "swiftswim",
+      "waterveil"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "flygon": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "forretress": {
+    "abilities": [
+      "sturdy",
+      "overcoat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "froslass": {
+    "abilities": [
+      "snowcloak",
+      "cursedbody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "snowcloak"
+  },
+  "furret": {
+    "abilities": [
+      "runaway",
+      "keeneye",
+      "frisk"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "runaway"
+  },
+  "gallade": {
+    "abilities": [
+      "steadfast",
+      "sharpness",
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "steadfast"
+  },
+  "galvantula": {
+    "abilities": [
+      "compoundeyes",
+      "unnerve",
+      "swarm"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "compoundeyes"
+  },
+  "garbodor": {
+    "abilities": [
+      "stench",
+      "weakarmor",
+      "aftermath"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "stench"
+  },
+  "garchomp": {
+    "abilities": [
+      "sandveil",
+      "roughskin"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandveil"
+  },
+  "gardevoir": {
+    "abilities": [
+      "synchronize",
+      "trace",
+      "telepathy"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "synchronize"
+  },
+  "gastrodon": {
+    "abilities": [
+      "stickyhold",
+      "stormdrain",
+      "sandforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "stickyhold"
+  },
+  "genesect": {
+    "abilities": [
+      "download"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "download"
+  },
+  "gengar": {
+    "abilities": [
+      "cursedbody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "cursedbody"
+  },
+  "gigalith": {
+    "abilities": [
+      "sturdy",
+      "sandstream",
+      "sandforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "girafarig": {
+    "abilities": [
+      "innerfocus",
+      "earlybird",
+      "sapsipper"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "innerfocus"
+  },
+  "giratina": {
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "giratinaorigin": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "glaceon": {
+    "abilities": [
+      "snowcloak",
+      "icebody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "snowcloak"
+  },
+  "glalie": {
+    "abilities": [
+      "innerfocus",
+      "icebody",
+      "moody"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "innerfocus"
+  },
+  "gligar": {
+    "abilities": [
+      "hypercutter",
+      "sandveil",
+      "immunity"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hypercutter"
+  },
+  "gliscor": {
+    "abilities": [
+      "hypercutter",
+      "sandveil",
+      "poisonheal"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hypercutter"
+  },
+  "golduck": {
+    "abilities": [
+      "damp",
+      "cloudnine",
+      "swiftswim"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "damp"
+  },
+  "golem": {
+    "abilities": [
+      "rockhead",
+      "sturdy",
+      "sandveil"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "rockhead"
+  },
+  "golurk": {
+    "abilities": [
+      "ironfist",
+      "klutz",
+      "noguard"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "ironfist"
+  },
+  "gorebyss": {
+    "abilities": [
+      "swiftswim",
+      "hydration"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swiftswim"
+  },
+  "gothitelle": {
+    "abilities": [
+      "frisk",
+      "competitive",
+      "shadowtag"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "frisk"
+  },
+  "granbull": {
+    "abilities": [
+      "intimidate",
+      "quickfeet",
+      "rattled"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "groudon": {
+    "abilities": [
+      "drought"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "drought"
+  },
+  "grumpig": {
+    "abilities": [
+      "thickfat",
+      "owntempo",
+      "gluttony"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "thickfat"
+  },
+  "gyarados": {
+    "abilities": [
+      "intimidate",
+      "moxie"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "hariyama": {
+    "abilities": [
+      "thickfat",
+      "guts",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "thickfat"
+  },
+  "haxorus": {
+    "abilities": [
+      "rivalry",
+      "moldbreaker",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "rivalry"
+  },
+  "heatmor": {
+    "abilities": [
+      "gluttony",
+      "flashfire",
+      "whitesmoke"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "gluttony"
+  },
+  "heatran": {
+    "abilities": [
+      "flashfire",
+      "flamebody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "flashfire"
+  },
+  "heracross": {
+    "abilities": [
+      "swarm",
+      "guts",
+      "moxie"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "hippowdon": {
+    "abilities": [
+      "sandstream",
+      "sandforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandstream"
+  },
+  "hitmonchan": {
+    "abilities": [
+      "keeneye",
+      "ironfist",
+      "innerfocus"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "hitmonlee": {
+    "abilities": [
+      "limber",
+      "reckless",
+      "unburden"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "limber"
+  },
+  "hitmontop": {
+    "abilities": [
+      "intimidate",
+      "technician",
+      "steadfast"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "honchkrow": {
+    "abilities": [
+      "insomnia",
+      "superluck",
+      "moxie"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "insomnia"
+  },
+  "hooh": {
+    "abilities": [
+      "pressure",
+      "regenerator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "houndoom": {
+    "abilities": [
+      "earlybird",
+      "flashfire",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "earlybird"
+  },
+  "huntail": {
+    "abilities": [
+      "swiftswim",
+      "waterveil"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "hydreigon": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "hypno": {
+    "abilities": [
+      "insomnia",
+      "forewarn",
+      "innerfocus"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "insomnia"
+  },
+  "illumise": {
+    "abilities": [
+      "oblivious",
+      "tintedlens",
+      "prankster"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "oblivious"
+  },
+  "infernape": {
+    "abilities": [
+      "blaze",
+      "ironfist"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "blaze"
+  },
+  "jellicent": {
+    "abilities": [
+      "waterabsorb",
+      "cursedbody",
+      "damp"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "waterabsorb"
+  },
+  "jirachi": {
+    "abilities": [
+      "serenegrace"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "serenegrace"
+  },
+  "jolteon": {
+    "abilities": [
+      "voltabsorb",
+      "quickfeet"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "voltabsorb"
+  },
+  "jumpluff": {
+    "abilities": [
+      "chlorophyll",
+      "leafguard",
+      "infiltrator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "chlorophyll"
+  },
+  "jynx": {
+    "abilities": [
+      "oblivious",
+      "forewarn",
+      "dryskin"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "oblivious"
+  },
+  "kabutops": {
+    "abilities": [
+      "swiftswim",
+      "battlearmor",
+      "weakarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "kangaskhan": {
+    "abilities": [
+      "earlybird",
+      "scrappy",
+      "innerfocus"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "earlybird"
+  },
+  "kecleon": {
+    "abilities": [
+      "colorchange",
+      "protean"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "colorchange"
+  },
+  "keldeo": {
+    "abilities": [
+      "justified"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "justified"
+  },
+  "kingdra": {
+    "abilities": [
+      "swiftswim",
+      "sniper",
+      "damp"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "kingler": {
+    "abilities": [
+      "hypercutter",
+      "shellarmor",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hypercutter"
+  },
+  "klinklang": {
+    "abilities": [
+      "plus",
+      "minus",
+      "clearbody"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "plus"
+  },
+  "kricketune": {
+    "abilities": [
+      "swarm",
+      "technician"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "krookodile": {
+    "abilities": [
+      "intimidate",
+      "moxie",
+      "angerpoint"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "kyogre": {
+    "abilities": [
+      "drizzle"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "drizzle"
+  },
+  "kyurem": {
+    "abilities": [
+      "pressure"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "kyuremblack": {
+    "abilities": [
+      "teravolt"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "teravolt"
+  },
+  "kyuremwhite": {
+    "abilities": [
+      "turboblaze"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "turboblaze"
+  },
+  "landorus": {
+    "abilities": [
+      "sandforce",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandforce"
+  },
+  "landorustherian": {
+    "abilities": [
+      "intimidate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "lanturn": {
+    "abilities": [
+      "voltabsorb",
+      "illuminate",
+      "waterabsorb"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "voltabsorb"
+  },
+  "lapras": {
+    "abilities": [
+      "waterabsorb",
+      "shellarmor",
+      "hydration"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "waterabsorb"
+  },
+  "latias": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "latios": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "leafeon": {
+    "abilities": [
+      "leafguard",
+      "chlorophyll"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "leafguard"
+  },
+  "leavanny": {
+    "abilities": [
+      "swarm",
+      "chlorophyll",
+      "overcoat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "ledian": {
+    "abilities": [
+      "swarm",
+      "earlybird",
+      "ironfist"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "lickilicky": {
+    "abilities": [
+      "owntempo",
+      "oblivious",
+      "cloudnine"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "owntempo"
+  },
+  "liepard": {
+    "abilities": [
+      "limber",
+      "unburden",
+      "prankster"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "limber"
+  },
+  "lilligant": {
+    "abilities": [
+      "chlorophyll",
+      "owntempo",
+      "leafguard"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "chlorophyll"
+  },
+  "linoone": {
+    "abilities": [
+      "pickup",
+      "gluttony",
+      "quickfeet"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pickup"
+  },
+  "lopunny": {
+    "abilities": [
+      "cutecharm",
+      "klutz",
+      "limber"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "cutecharm"
+  },
+  "lucario": {
+    "abilities": [
+      "steadfast",
+      "innerfocus",
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "steadfast"
+  },
+  "ludicolo": {
+    "abilities": [
+      "swiftswim",
+      "raindish",
+      "owntempo"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swiftswim"
+  },
+  "lugia": {
+    "abilities": [
+      "pressure",
+      "multiscale"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "lumineon": {
+    "abilities": [
+      "swiftswim",
+      "stormdrain",
+      "waterveil"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "lunatone": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "luvdisc": {
+    "abilities": [
+      "swiftswim",
+      "hydration"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swiftswim"
+  },
+  "luxray": {
+    "abilities": [
+      "rivalry",
+      "intimidate",
+      "guts"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "rivalry"
+  },
+  "machamp": {
+    "abilities": [
+      "guts",
+      "noguard",
+      "steadfast"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "guts"
+  },
+  "magcargo": {
+    "abilities": [
+      "magmaarmor",
+      "flamebody",
+      "weakarmor"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "magmaarmor"
+  },
+  "magmortar": {
+    "abilities": [
+      "flamebody",
+      "vitalspirit"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "flamebody"
+  },
+  "magnezone": {
+    "abilities": [
+      "magnetpull",
+      "sturdy",
+      "analytic"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "magnetpull"
+  },
+  "mamoswine": {
+    "abilities": [
+      "oblivious",
+      "snowcloak",
+      "thickfat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "oblivious"
+  },
+  "manaphy": {
+    "abilities": [
+      "hydration"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "hydration"
+  },
+  "mandibuzz": {
+    "abilities": [
+      "bigpecks",
+      "overcoat",
+      "weakarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "bigpecks"
+  },
+  "manectric": {
+    "abilities": [
+      "static",
+      "lightningrod",
+      "minus"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "static"
+  },
+  "mantine": {
+    "abilities": [
+      "swiftswim",
+      "waterabsorb",
+      "waterveil"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swiftswim"
+  },
+  "maractus": {
+    "abilities": [
+      "waterabsorb",
+      "chlorophyll",
+      "stormdrain"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "waterabsorb"
+  },
+  "marowak": {
+    "abilities": [
+      "rockhead",
+      "lightningrod",
+      "battlearmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "rockhead"
+  },
+  "masquerain": {
+    "abilities": [
+      "intimidate",
+      "unnerve"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "intimidate"
+  },
+  "mawile": {
+    "abilities": [
+      "hypercutter",
+      "intimidate",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hypercutter"
+  },
+  "medicham": {
+    "abilities": [
+      "purepower",
+      "telepathy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "purepower"
+  },
+  "meganium": {
+    "abilities": [
+      "overgrow",
+      "leafguard"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "overgrow"
+  },
+  "meloetta": {
+    "abilities": [
+      "serenegrace"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "serenegrace"
+  },
+  "mesprit": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "metagross": {
+    "abilities": [
+      "clearbody",
+      "lightmetal"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "clearbody"
+  },
+  "mew": {
+    "abilities": [
+      "synchronize"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "synchronize"
+  },
+  "mewtwo": {
+    "abilities": [
+      "pressure",
+      "unnerve"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "pressure"
+  },
+  "mienshao": {
+    "abilities": [
+      "innerfocus",
+      "regenerator",
+      "reckless"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "innerfocus"
+  },
+  "mightyena": {
+    "abilities": [
+      "intimidate",
+      "quickfeet",
+      "moxie"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "milotic": {
+    "abilities": [
+      "marvelscale",
+      "competitive",
+      "cutecharm"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "marvelscale"
+  },
+  "miltank": {
+    "abilities": [
+      "thickfat",
+      "scrappy",
+      "sapsipper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "thickfat"
+  },
+  "minun": {
+    "abilities": [
+      "minus",
+      "voltabsorb"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "minus"
+  },
+  "mismagius": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "moltres": {
+    "abilities": [
+      "pressure",
+      "flamebody"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "mothim": {
+    "abilities": [
+      "swarm",
+      "tintedlens"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swarm"
+  },
+  "mrmime": {
+    "abilities": [
+      "soundproof",
+      "filter",
+      "technician"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "soundproof"
+  },
+  "muk": {
+    "abilities": [
+      "stench",
+      "stickyhold",
+      "poisontouch"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "stench"
+  },
+  "murkrow": {
+    "abilities": [
+      "insomnia",
+      "superluck",
+      "prankster"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "insomnia"
+  },
+  "musharna": {
+    "abilities": [
+      "forewarn",
+      "synchronize",
+      "telepathy"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "forewarn"
+  },
+  "nidoking": {
+    "abilities": [
+      "poisonpoint",
+      "rivalry",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "poisonpoint"
+  },
+  "nidoqueen": {
+    "abilities": [
+      "poisonpoint",
+      "rivalry",
+      "sheerforce"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "poisonpoint"
+  },
+  "ninetales": {
+    "abilities": [
+      "flashfire",
+      "drought"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "flashfire"
+  },
+  "ninjask": {
+    "abilities": [
+      "speedboost",
+      "infiltrator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "speedboost"
+  },
+  "noctowl": {
+    "abilities": [
+      "insomnia",
+      "keeneye",
+      "tintedlens"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "insomnia"
+  },
+  "octillery": {
+    "abilities": [
+      "suctioncups",
+      "sniper",
+      "moody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "suctioncups"
+  },
+  "omastar": {
+    "abilities": [
+      "swiftswim",
+      "shellarmor",
+      "weakarmor"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "swiftswim"
+  },
+  "pachirisu": {
+    "abilities": [
+      "runaway",
+      "pickup",
+      "voltabsorb"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "runaway"
+  },
+  "palkia": {
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "pressure"
+  },
+  "parasect": {
+    "abilities": [
+      "effectspore",
+      "dryskin",
+      "damp"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "effectspore"
+  },
+  "pelipper": {
+    "abilities": [
+      "keeneye",
+      "drizzle",
+      "raindish"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "persian": {
+    "abilities": [
+      "limber",
+      "technician",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "limber"
+  },
+  "phione": {
+    "abilities": [
+      "hydration"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hydration"
+  },
+  "pidgeot": {
+    "abilities": [
+      "keeneye",
+      "tangledfeet",
+      "bigpecks"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "pikachu": {
+    "abilities": [
+      "static",
+      "lightningrod"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "static"
+  },
+  "pinsir": {
+    "abilities": [
+      "hypercutter",
+      "moldbreaker",
+      "moxie"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "hypercutter"
+  },
+  "plusle": {
+    "abilities": [
+      "plus",
+      "lightningrod"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "plus"
+  },
+  "politoed": {
+    "abilities": [
+      "waterabsorb",
+      "damp",
+      "drizzle"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "waterabsorb"
+  },
+  "poliwrath": {
+    "abilities": [
+      "waterabsorb",
+      "damp",
+      "swiftswim"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "waterabsorb"
+  },
+  "porygon2": {
+    "abilities": [
+      "trace",
+      "download",
+      "analytic"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "trace"
+  },
+  "porygonz": {
+    "abilities": [
+      "adaptability",
+      "download",
+      "analytic"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "adaptability"
+  },
+  "primeape": {
+    "abilities": [
+      "vitalspirit",
+      "angerpoint",
+      "defiant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "vitalspirit"
+  },
+  "probopass": {
+    "abilities": [
+      "sturdy",
+      "magnetpull",
+      "sandforce"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "sturdy"
+  },
+  "purugly": {
+    "abilities": [
+      "thickfat",
+      "owntempo",
+      "defiant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "thickfat"
+  },
+  "quagsire": {
+    "abilities": [
+      "damp",
+      "waterabsorb",
+      "unaware"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "damp"
+  },
+  "qwilfish": {
+    "abilities": [
+      "poisonpoint",
+      "swiftswim",
+      "intimidate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "poisonpoint"
+  },
+  "raichu": {
+    "abilities": [
+      "static",
+      "lightningrod"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "static"
+  },
+  "raikou": {
+    "abilities": [
+      "pressure",
+      "innerfocus"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "pressure"
+  },
+  "rampardos": {
+    "abilities": [
+      "moldbreaker",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "moldbreaker"
+  },
+  "rapidash": {
+    "abilities": [
+      "runaway",
+      "flashfire",
+      "flamebody"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "runaway"
+  },
+  "raticate": {
+    "abilities": [
+      "runaway",
+      "guts",
+      "hustle"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "runaway"
+  },
+  "rayquaza": {
+    "abilities": [
+      "airlock"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "airlock"
+  },
+  "regice": {
+    "abilities": [
+      "clearbody",
+      "icebody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "clearbody"
+  },
+  "regigigas": {
+    "abilities": [
+      "slowstart"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "slowstart"
+  },
+  "regirock": {
+    "abilities": [
+      "clearbody",
+      "sturdy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "clearbody"
+  },
+  "registeel": {
+    "abilities": [
+      "clearbody",
+      "lightmetal"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "clearbody"
+  },
+  "relicanth": {
+    "abilities": [
+      "swiftswim",
+      "rockhead",
+      "sturdy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "reshiram": {
+    "abilities": [
+      "turboblaze"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "turboblaze"
+  },
+  "reuniclus": {
+    "abilities": [
+      "overcoat",
+      "magicguard",
+      "regenerator"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "overcoat"
+  },
+  "rhydon": {
+    "abilities": [
+      "lightningrod",
+      "rockhead",
+      "reckless"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "lightningrod"
+  },
+  "rhyperior": {
+    "abilities": [
+      "lightningrod",
+      "solidrock",
+      "reckless"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "lightningrod"
+  },
+  "roserade": {
+    "abilities": [
+      "naturalcure",
+      "poisonpoint",
+      "technician"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "naturalcure"
+  },
+  "rotom": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "rotomfan": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "rotomfrost": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "rotomheat": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "rotommow": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "rotomwash": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "sableye": {
+    "abilities": [
+      "keeneye",
+      "stall",
+      "prankster"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "salamence": {
+    "abilities": [
+      "intimidate",
+      "moxie"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "samurott": {
+    "abilities": [
+      "torrent",
+      "shellarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "torrent"
+  },
+  "sandslash": {
+    "abilities": [
+      "sandveil",
+      "sandrush"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandveil"
+  },
+  "sawk": {
+    "abilities": [
+      "sturdy",
+      "innerfocus",
+      "moldbreaker"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "sawsbuck": {
+    "abilities": [
+      "chlorophyll",
+      "sapsipper",
+      "serenegrace"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "chlorophyll"
+  },
+  "sceptile": {
+    "abilities": [
+      "overgrow",
+      "unburden"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "overgrow"
+  },
+  "scizor": {
+    "abilities": [
+      "swarm",
+      "technician",
+      "lightmetal"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "scolipede": {
+    "abilities": [
+      "poisonpoint",
+      "swarm",
+      "speedboost"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "poisonpoint"
+  },
+  "scrafty": {
+    "abilities": [
+      "shedskin",
+      "moxie",
+      "intimidate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "shedskin"
+  },
+  "scyther": {
+    "abilities": [
+      "swarm",
+      "technician",
+      "steadfast"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swarm"
+  },
+  "seaking": {
+    "abilities": [
+      "swiftswim",
+      "waterveil",
+      "lightningrod"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "seismitoad": {
+    "abilities": [
+      "swiftswim",
+      "poisontouch",
+      "waterabsorb"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "swiftswim"
+  },
+  "serperior": {
+    "abilities": [
+      "overgrow",
+      "contrary"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "overgrow"
+  },
+  "seviper": {
+    "abilities": [
+      "shedskin",
+      "infiltrator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "shedskin"
+  },
+  "sharpedo": {
+    "abilities": [
+      "roughskin",
+      "speedboost"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "roughskin"
+  },
+  "shaymin": {
+    "abilities": [
+      "naturalcure"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "naturalcure"
+  },
+  "shayminsky": {
+    "abilities": [
+      "serenegrace"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "serenegrace"
+  },
+  "shedinja": {
+    "abilities": [
+      "wonderguard"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "wonderguard"
+  },
+  "shiftry": {
+    "abilities": [
+      "chlorophyll",
+      "windrider",
+      "pickpocket"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "chlorophyll"
+  },
+  "shuckle": {
+    "abilities": [
+      "sturdy",
+      "gluttony",
+      "contrary"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "sigilyph": {
+    "abilities": [
+      "wonderskin",
+      "magicguard",
+      "tintedlens"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "wonderskin"
+  },
+  "simipour": {
+    "abilities": [
+      "gluttony",
+      "torrent"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "gluttony"
+  },
+  "simisage": {
+    "abilities": [
+      "gluttony",
+      "overgrow"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "gluttony"
+  },
+  "simisear": {
+    "abilities": [
+      "gluttony",
+      "blaze"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "gluttony"
+  },
+  "skarmory": {
+    "abilities": [
+      "keeneye",
+      "sturdy",
+      "weakarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "skuntank": {
+    "abilities": [
+      "stench",
+      "aftermath",
+      "keeneye"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "stench"
+  },
+  "slaking": {
+    "abilities": [
+      "truant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "truant"
+  },
+  "slowbro": {
+    "abilities": [
+      "oblivious",
+      "owntempo",
+      "regenerator"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "oblivious"
+  },
+  "slowking": {
+    "abilities": [
+      "oblivious",
+      "owntempo",
+      "regenerator"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "oblivious"
+  },
+  "smeargle": {
+    "abilities": [
+      "owntempo",
+      "technician",
+      "moody"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "owntempo"
+  },
+  "snorlax": {
+    "abilities": [
+      "immunity",
+      "thickfat",
+      "gluttony"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "immunity"
+  },
+  "solrock": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "spinda": {
+    "abilities": [
+      "owntempo",
+      "tangledfeet",
+      "contrary"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "owntempo"
+  },
+  "spiritomb": {
+    "abilities": [
+      "pressure",
+      "infiltrator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "stantler": {
+    "abilities": [
+      "intimidate",
+      "frisk",
+      "sapsipper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "staraptor": {
+    "abilities": [
+      "intimidate",
+      "reckless"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "starmie": {
+    "abilities": [
+      "illuminate",
+      "naturalcure",
+      "analytic"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "illuminate"
+  },
+  "steelix": {
+    "abilities": [
+      "rockhead",
+      "sturdy",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "rockhead"
+  },
+  "stoutland": {
+    "abilities": [
+      "intimidate",
+      "sandrush",
+      "scrappy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "stunfisk": {
+    "abilities": [
+      "static",
+      "limber",
+      "sandveil"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "static"
+  },
+  "sudowoodo": {
+    "abilities": [
+      "sturdy",
+      "rockhead",
+      "rattled"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sturdy"
+  },
+  "suicune": {
+    "abilities": [
+      "pressure",
+      "innerfocus"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "pressure"
+  },
+  "sunflora": {
+    "abilities": [
+      "chlorophyll",
+      "solarpower",
+      "earlybird"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "chlorophyll"
+  },
+  "swalot": {
+    "abilities": [
+      "liquidooze",
+      "stickyhold",
+      "gluttony"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "liquidooze"
+  },
+  "swampert": {
+    "abilities": [
+      "torrent",
+      "damp"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "torrent"
+  },
+  "swanna": {
+    "abilities": [
+      "keeneye",
+      "bigpecks",
+      "hydration"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "keeneye"
+  },
+  "swellow": {
+    "abilities": [
+      "guts",
+      "scrappy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "guts"
+  },
+  "swoobat": {
+    "abilities": [
+      "unaware",
+      "klutz",
+      "simple"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "unaware"
+  },
+  "tangrowth": {
+    "abilities": [
+      "chlorophyll",
+      "leafguard",
+      "regenerator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "chlorophyll"
+  },
+  "tauros": {
+    "abilities": [
+      "intimidate",
+      "angerpoint",
+      "sheerforce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "intimidate"
+  },
+  "tentacruel": {
+    "abilities": [
+      "clearbody",
+      "liquidooze",
+      "raindish"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "clearbody"
+  },
+  "terrakion": {
+    "abilities": [
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "justified"
+  },
+  "throh": {
+    "abilities": [
+      "guts",
+      "innerfocus",
+      "moldbreaker"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "guts"
+  },
+  "thundurus": {
+    "abilities": [
+      "prankster",
+      "defiant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "prankster"
+  },
+  "thundurustherian": {
+    "abilities": [
+      "voltabsorb"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "voltabsorb"
+  },
+  "togekiss": {
+    "abilities": [
+      "hustle",
+      "serenegrace",
+      "superluck"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "hustle"
+  },
+  "torkoal": {
+    "abilities": [
+      "whitesmoke",
+      "drought",
+      "shellarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "whitesmoke"
+  },
+  "tornadus": {
+    "abilities": [
+      "prankster",
+      "defiant"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "prankster"
+  },
+  "tornadustherian": {
+    "abilities": [
+      "regenerator"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "regenerator"
+  },
+  "torterra": {
+    "abilities": [
+      "overgrow",
+      "shellarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "overgrow"
+  },
+  "toxicroak": {
+    "abilities": [
+      "anticipation",
+      "dryskin",
+      "poisontouch"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "anticipation"
+  },
+  "tropius": {
+    "abilities": [
+      "chlorophyll",
+      "solarpower",
+      "harvest"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "chlorophyll"
+  },
+  "typhlosion": {
+    "abilities": [
+      "blaze",
+      "flashfire"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "blaze"
+  },
+  "tyranitar": {
+    "abilities": [
+      "sandstream",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "sandstream"
+  },
+  "umbreon": {
+    "abilities": [
+      "synchronize",
+      "innerfocus"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "synchronize"
+  },
+  "unfezant": {
+    "abilities": [
+      "bigpecks",
+      "superluck",
+      "rivalry"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "bigpecks"
+  },
+  "unown": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "ursaring": {
+    "abilities": [
+      "guts",
+      "quickfeet",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "guts"
+  },
+  "uxie": {
+    "abilities": [
+      "levitate"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "levitate"
+  },
+  "vanilluxe": {
+    "abilities": [
+      "icebody",
+      "snowwarning",
+      "weakarmor"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "icebody"
+  },
+  "vaporeon": {
+    "abilities": [
+      "waterabsorb",
+      "hydration"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "waterabsorb"
+  },
+  "venomoth": {
+    "abilities": [
+      "shielddust",
+      "tintedlens",
+      "wonderskin"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "shielddust"
+  },
+  "venusaur": {
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "overgrow"
+  },
+  "vespiquen": {
+    "abilities": [
+      "pressure",
+      "unnerve"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "victini": {
+    "abilities": [
+      "victorystar"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "victorystar"
+  },
+  "victreebel": {
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "chlorophyll"
+  },
+  "vigoroth": {
+    "abilities": [
+      "vitalspirit"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "vitalspirit"
+  },
+  "vileplume": {
+    "abilities": [
+      "chlorophyll",
+      "effectspore"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "chlorophyll"
+  },
+  "virizion": {
+    "abilities": [
+      "justified"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "justified"
+  },
+  "volbeat": {
+    "abilities": [
+      "illuminate",
+      "swarm",
+      "prankster"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "illuminate"
+  },
+  "volcarona": {
+    "abilities": [
+      "flamebody",
+      "swarm"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "flamebody"
+  },
+  "wailord": {
+    "abilities": [
+      "waterveil",
+      "oblivious",
+      "pressure"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "waterveil"
+  },
+  "walrein": {
+    "abilities": [
+      "thickfat",
+      "icebody",
+      "oblivious"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "thickfat"
+  },
+  "watchog": {
+    "abilities": [
+      "illuminate",
+      "keeneye",
+      "analytic"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "illuminate"
+  },
+  "weavile": {
+    "abilities": [
+      "pressure",
+      "pickpocket"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "weezing": {
+    "abilities": [
+      "levitate",
+      "neutralizinggas",
+      "stench"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "levitate"
+  },
+  "whimsicott": {
+    "abilities": [
+      "prankster",
+      "infiltrator",
+      "chlorophyll"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "prankster"
+  },
+  "whiscash": {
+    "abilities": [
+      "oblivious",
+      "anticipation",
+      "hydration"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "oblivious"
+  },
+  "wigglytuff": {
+    "abilities": [
+      "cutecharm",
+      "competitive",
+      "frisk"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "cutecharm"
+  },
+  "wobbuffet": {
+    "abilities": [
+      "shadowtag",
+      "telepathy"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "shadowtag"
+  },
+  "wormadam": {
+    "abilities": [
+      "anticipation",
+      "overcoat"
+    ],
+    "has_physical_attacks": false,
+    "most_likely_ability": "anticipation"
+  },
+  "wormadamsandy": {
+    "abilities": [
+      "anticipation",
+      "overcoat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "anticipation"
+  },
+  "wormadamtrash": {
+    "abilities": [
+      "anticipation",
+      "overcoat"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "anticipation"
+  },
+  "xatu": {
+    "abilities": [
+      "synchronize",
+      "earlybird",
+      "magicbounce"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "synchronize"
+  },
+  "yanmega": {
+    "abilities": [
+      "speedboost",
+      "tintedlens",
+      "frisk"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "speedboost"
+  },
+  "zangoose": {
+    "abilities": [
+      "immunity",
+      "toxicboost"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "immunity"
+  },
+  "zapdos": {
+    "abilities": [
+      "pressure",
+      "static"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "pressure"
+  },
+  "zebstrika": {
+    "abilities": [
+      "lightningrod",
+      "motordrive",
+      "sapsipper"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "lightningrod"
+  },
+  "zekrom": {
+    "abilities": [
+      "teravolt"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "teravolt"
+  },
+  "zoroark": {
+    "abilities": [
+      "illusion"
+    ],
+    "has_physical_attacks": true,
+    "most_likely_ability": "illusion"
+  }
+}

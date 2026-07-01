@@ -1,0 +1,7004 @@
+{
+  "abomasnow": {
+    "base_stats": {
+      "attack": 92,
+      "defense": 75,
+      "hp": 90,
+      "special-attack": 92,
+      "special-defense": 85,
+      "speed": 60
+    },
+    "has_physical_attacks": true,
+    "name": "abomasnow",
+    "num": 460,
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "weight_kg": 135.5
+  },
+  "absol": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 75,
+      "special-defense": 60,
+      "speed": 75
+    },
+    "has_physical_attacks": true,
+    "name": "absol",
+    "num": 359,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 47.0
+  },
+  "accelgor": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 40,
+      "hp": 80,
+      "special-attack": 100,
+      "special-defense": 60,
+      "speed": 145
+    },
+    "has_physical_attacks": true,
+    "name": "accelgor",
+    "num": 617,
+    "types": [
+      "bug",
+      "typeless"
+    ],
+    "weight_kg": 25.3
+  },
+  "aerodactyl": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 65,
+      "hp": 80,
+      "special-attack": 60,
+      "special-defense": 75,
+      "speed": 130
+    },
+    "has_physical_attacks": true,
+    "name": "aerodactyl",
+    "num": 142,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "weight_kg": 59.0
+  },
+  "aggron": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 180,
+      "hp": 70,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "aggron",
+    "num": 306,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "weight_kg": 360.0
+  },
+  "alakazam": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 45,
+      "hp": 55,
+      "special-attack": 135,
+      "special-defense": 95,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "alakazam",
+    "num": 65,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 48.0
+  },
+  "alomomola": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 80,
+      "hp": 165,
+      "special-attack": 40,
+      "special-defense": 45,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "alomomola",
+    "num": 594,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 31.6
+  },
+  "altaria": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 90,
+      "hp": 75,
+      "special-attack": 70,
+      "special-defense": 105,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "altaria",
+    "num": 334,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "weight_kg": 20.6
+  },
+  "ambipom": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 66,
+      "hp": 75,
+      "special-attack": 60,
+      "special-defense": 66,
+      "speed": 115
+    },
+    "has_physical_attacks": true,
+    "name": "ambipom",
+    "num": 424,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 20.3
+  },
+  "amoonguss": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 70,
+      "hp": 114,
+      "special-attack": 85,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "has_physical_attacks": true,
+    "name": "amoonguss",
+    "num": 591,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "weight_kg": 10.5
+  },
+  "ampharos": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 85,
+      "hp": 90,
+      "special-attack": 115,
+      "special-defense": 90,
+      "speed": 55
+    },
+    "has_physical_attacks": false,
+    "name": "ampharos",
+    "num": 181,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 61.5
+  },
+  "arbok": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 69,
+      "hp": 60,
+      "special-attack": 65,
+      "special-defense": 79,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "arbok",
+    "num": 24,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 65.0
+  },
+  "arcanine": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 80,
+      "hp": 90,
+      "special-attack": 100,
+      "special-defense": 80,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "arcanine",
+    "num": 59,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 155.0
+  },
+  "arceus": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "arceus",
+    "num": 493,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusbug": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusbug",
+    "num": 493,
+    "types": [
+      "bug",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusdark": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusdark",
+    "num": 493,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusdragon": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "arceusdragon",
+    "num": 493,
+    "types": [
+      "dragon",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceuselectric": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceuselectric",
+    "num": 493,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusfighting": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusfighting",
+    "num": 493,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusfire": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusfire",
+    "num": 493,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusflying": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusflying",
+    "num": 493,
+    "types": [
+      "flying",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusghost": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusghost",
+    "num": 493,
+    "types": [
+      "ghost",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusgrass": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusgrass",
+    "num": 493,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusground": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "arceusground",
+    "num": 493,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusice": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceusice",
+    "num": 493,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceuspoison": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "arceuspoison",
+    "num": 493,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceuspsychic": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceuspsychic",
+    "num": 493,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceusrock": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "arceusrock",
+    "num": 493,
+    "types": [
+      "rock",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceussteel": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "arceussteel",
+    "num": 493,
+    "types": [
+      "steel",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "arceuswater": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 120,
+      "special-attack": 120,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "has_physical_attacks": false,
+    "name": "arceuswater",
+    "num": 493,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 320.0
+  },
+  "archeops": {
+    "base_stats": {
+      "attack": 140,
+      "defense": 65,
+      "hp": 75,
+      "special-attack": 112,
+      "special-defense": 65,
+      "speed": 110
+    },
+    "has_physical_attacks": true,
+    "name": "archeops",
+    "num": 567,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "weight_kg": 32.0
+  },
+  "ariados": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "ariados",
+    "num": 168,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "weight_kg": 33.5
+  },
+  "armaldo": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 100,
+      "hp": 75,
+      "special-attack": 70,
+      "special-defense": 80,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "armaldo",
+    "num": 348,
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "weight_kg": 68.2
+  },
+  "articuno": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 100,
+      "hp": 90,
+      "special-attack": 95,
+      "special-defense": 125,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "articuno",
+    "num": 144,
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "weight_kg": 55.4
+  },
+  "audino": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 86,
+      "hp": 103,
+      "special-attack": 60,
+      "special-defense": 86,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "audino",
+    "num": 531,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 31.0
+  },
+  "azelf": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 70,
+      "hp": 75,
+      "special-attack": 125,
+      "special-defense": 70,
+      "speed": 115
+    },
+    "has_physical_attacks": true,
+    "name": "azelf",
+    "num": 482,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 0.3
+  },
+  "azumarill": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 80,
+      "hp": 100,
+      "special-attack": 60,
+      "special-defense": 80,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "azumarill",
+    "num": 184,
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "weight_kg": 28.5
+  },
+  "banette": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 65,
+      "hp": 64,
+      "special-attack": 83,
+      "special-defense": 63,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "banette",
+    "num": 354,
+    "types": [
+      "ghost",
+      "typeless"
+    ],
+    "weight_kg": 12.5
+  },
+  "basculin": {
+    "base_stats": {
+      "attack": 92,
+      "defense": 65,
+      "hp": 70,
+      "special-attack": 80,
+      "special-defense": 55,
+      "speed": 98
+    },
+    "has_physical_attacks": true,
+    "name": "basculin",
+    "num": 550,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 18.0
+  },
+  "bastiodon": {
+    "base_stats": {
+      "attack": 52,
+      "defense": 168,
+      "hp": 60,
+      "special-attack": 47,
+      "special-defense": 138,
+      "speed": 30
+    },
+    "has_physical_attacks": true,
+    "name": "bastiodon",
+    "num": 411,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "weight_kg": 149.5
+  },
+  "beartic": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 80,
+      "hp": 95,
+      "special-attack": 70,
+      "special-defense": 80,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "beartic",
+    "num": 614,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 260.0
+  },
+  "beautifly": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 50,
+      "hp": 60,
+      "special-attack": 100,
+      "special-defense": 50,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "beautifly",
+    "num": 267,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 28.4
+  },
+  "beedrill": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 40,
+      "hp": 65,
+      "special-attack": 45,
+      "special-defense": 80,
+      "speed": 75
+    },
+    "has_physical_attacks": true,
+    "name": "beedrill",
+    "num": 15,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "weight_kg": 29.5
+  },
+  "beheeyem": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 75,
+      "hp": 75,
+      "special-attack": 125,
+      "special-defense": 95,
+      "speed": 40
+    },
+    "has_physical_attacks": false,
+    "name": "beheeyem",
+    "num": 606,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 34.5
+  },
+  "bellossom": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 95,
+      "hp": 75,
+      "special-attack": 90,
+      "special-defense": 100,
+      "speed": 50
+    },
+    "has_physical_attacks": false,
+    "name": "bellossom",
+    "num": 182,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 5.8
+  },
+  "bibarel": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 60,
+      "hp": 79,
+      "special-attack": 55,
+      "special-defense": 60,
+      "speed": 71
+    },
+    "has_physical_attacks": true,
+    "name": "bibarel",
+    "num": 400,
+    "types": [
+      "normal",
+      "water"
+    ],
+    "weight_kg": 31.5
+  },
+  "bisharp": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 100,
+      "hp": 65,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "bisharp",
+    "num": 625,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "weight_kg": 70.0
+  },
+  "blastoise": {
+    "base_stats": {
+      "attack": 83,
+      "defense": 100,
+      "hp": 79,
+      "special-attack": 85,
+      "special-defense": 105,
+      "speed": 78
+    },
+    "has_physical_attacks": true,
+    "name": "blastoise",
+    "num": 9,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 85.5
+  },
+  "blaziken": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 70,
+      "hp": 80,
+      "special-attack": 110,
+      "special-defense": 70,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "blaziken",
+    "num": 257,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "weight_kg": 52.0
+  },
+  "blissey": {
+    "base_stats": {
+      "attack": 10,
+      "defense": 10,
+      "hp": 255,
+      "special-attack": 75,
+      "special-defense": 135,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "blissey",
+    "num": 242,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 46.8
+  },
+  "bouffalant": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 95,
+      "hp": 95,
+      "special-attack": 40,
+      "special-defense": 95,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "bouffalant",
+    "num": 626,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 94.6
+  },
+  "braviary": {
+    "base_stats": {
+      "attack": 123,
+      "defense": 75,
+      "hp": 100,
+      "special-attack": 57,
+      "special-defense": 75,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "braviary",
+    "num": 628,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 41.0
+  },
+  "breloom": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 80,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "breloom",
+    "num": 286,
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "weight_kg": 39.2
+  },
+  "bronzong": {
+    "base_stats": {
+      "attack": 89,
+      "defense": 116,
+      "hp": 67,
+      "special-attack": 79,
+      "special-defense": 116,
+      "speed": 33
+    },
+    "has_physical_attacks": true,
+    "name": "bronzong",
+    "num": 437,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "weight_kg": 187.0
+  },
+  "butterfree": {
+    "base_stats": {
+      "attack": 45,
+      "defense": 50,
+      "hp": 60,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "butterfree",
+    "num": 12,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 32.0
+  },
+  "cacturne": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 60,
+      "hp": 70,
+      "special-attack": 115,
+      "special-defense": 60,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "cacturne",
+    "num": 332,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "weight_kg": 77.4
+  },
+  "camerupt": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 105,
+      "special-defense": 75,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "camerupt",
+    "num": 323,
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "weight_kg": 220.0
+  },
+  "carnivine": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 72,
+      "hp": 74,
+      "special-attack": 90,
+      "special-defense": 72,
+      "speed": 46
+    },
+    "has_physical_attacks": true,
+    "name": "carnivine",
+    "num": 455,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 27.0
+  },
+  "carracosta": {
+    "base_stats": {
+      "attack": 108,
+      "defense": 133,
+      "hp": 74,
+      "special-attack": 83,
+      "special-defense": 65,
+      "speed": 32
+    },
+    "has_physical_attacks": true,
+    "name": "carracosta",
+    "num": 565,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "weight_kg": 81.0
+  },
+  "castform": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 70,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "castform",
+    "num": 351,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 0.8
+  },
+  "celebi": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "celebi",
+    "num": 251,
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "weight_kg": 5.0
+  },
+  "chandelure": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 90,
+      "hp": 60,
+      "special-attack": 145,
+      "special-defense": 90,
+      "speed": 80
+    },
+    "has_physical_attacks": false,
+    "name": "chandelure",
+    "num": 609,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "weight_kg": 34.3
+  },
+  "chansey": {
+    "base_stats": {
+      "attack": 5,
+      "defense": 5,
+      "hp": 250,
+      "special-attack": 35,
+      "special-defense": 105,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "chansey",
+    "num": 113,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 34.6
+  },
+  "charizard": {
+    "base_stats": {
+      "attack": 84,
+      "defense": 78,
+      "hp": 78,
+      "special-attack": 109,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "charizard",
+    "num": 6,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "weight_kg": 90.5
+  },
+  "chatot": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 45,
+      "hp": 76,
+      "special-attack": 92,
+      "special-defense": 42,
+      "speed": 91
+    },
+    "has_physical_attacks": true,
+    "name": "chatot",
+    "num": 441,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 1.9
+  },
+  "cherrim": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 87,
+      "special-defense": 78,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "cherrim",
+    "num": 421,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 9.3
+  },
+  "chimecho": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 80,
+      "hp": 75,
+      "special-attack": 95,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "chimecho",
+    "num": 358,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 1.0
+  },
+  "cinccino": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 60,
+      "hp": 75,
+      "special-attack": 65,
+      "special-defense": 60,
+      "speed": 115
+    },
+    "has_physical_attacks": true,
+    "name": "cinccino",
+    "num": 573,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 7.5
+  },
+  "claydol": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 105,
+      "hp": 60,
+      "special-attack": 70,
+      "special-defense": 120,
+      "speed": 75
+    },
+    "has_physical_attacks": true,
+    "name": "claydol",
+    "num": 344,
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "weight_kg": 108.0
+  },
+  "clefable": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 73,
+      "hp": 95,
+      "special-attack": 95,
+      "special-defense": 90,
+      "speed": 60
+    },
+    "has_physical_attacks": true,
+    "name": "clefable",
+    "num": 36,
+    "types": [
+      "fairy",
+      "typeless"
+    ],
+    "weight_kg": 40.0
+  },
+  "cloyster": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 180,
+      "hp": 50,
+      "special-attack": 85,
+      "special-defense": 45,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "cloyster",
+    "num": 91,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "weight_kg": 132.5
+  },
+  "cobalion": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 129,
+      "hp": 91,
+      "special-attack": 90,
+      "special-defense": 72,
+      "speed": 108
+    },
+    "has_physical_attacks": true,
+    "name": "cobalion",
+    "num": 638,
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "weight_kg": 250.0
+  },
+  "cofagrigus": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 145,
+      "hp": 58,
+      "special-attack": 95,
+      "special-defense": 105,
+      "speed": 30
+    },
+    "has_physical_attacks": false,
+    "name": "cofagrigus",
+    "num": 563,
+    "types": [
+      "ghost",
+      "typeless"
+    ],
+    "weight_kg": 76.5
+  },
+  "conkeldurr": {
+    "base_stats": {
+      "attack": 140,
+      "defense": 95,
+      "hp": 105,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "conkeldurr",
+    "num": 534,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 87.0
+  },
+  "corsola": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 95,
+      "hp": 65,
+      "special-attack": 65,
+      "special-defense": 95,
+      "speed": 35
+    },
+    "has_physical_attacks": false,
+    "name": "corsola",
+    "num": 222,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "weight_kg": 5.0
+  },
+  "cradily": {
+    "base_stats": {
+      "attack": 81,
+      "defense": 97,
+      "hp": 86,
+      "special-attack": 81,
+      "special-defense": 107,
+      "speed": 43
+    },
+    "has_physical_attacks": true,
+    "name": "cradily",
+    "num": 346,
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "weight_kg": 60.4
+  },
+  "crawdaunt": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 85,
+      "hp": 63,
+      "special-attack": 90,
+      "special-defense": 55,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "crawdaunt",
+    "num": 342,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "weight_kg": 32.8
+  },
+  "cresselia": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 110,
+      "hp": 120,
+      "special-attack": 75,
+      "special-defense": 120,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "cresselia",
+    "num": 488,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 85.6
+  },
+  "crobat": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 80,
+      "hp": 85,
+      "special-attack": 70,
+      "special-defense": 80,
+      "speed": 130
+    },
+    "has_physical_attacks": true,
+    "name": "crobat",
+    "num": 169,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "weight_kg": 75.0
+  },
+  "crustle": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 125,
+      "hp": 70,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "crustle",
+    "num": 558,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "weight_kg": 200.0
+  },
+  "cryogonal": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 50,
+      "hp": 80,
+      "special-attack": 95,
+      "special-defense": 135,
+      "speed": 105
+    },
+    "has_physical_attacks": true,
+    "name": "cryogonal",
+    "num": 615,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 148.0
+  },
+  "darkrai": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 90,
+      "hp": 70,
+      "special-attack": 135,
+      "special-defense": 90,
+      "speed": 125
+    },
+    "has_physical_attacks": false,
+    "name": "darkrai",
+    "num": 491,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 50.5
+  },
+  "darmanitan": {
+    "base_stats": {
+      "attack": 140,
+      "defense": 55,
+      "hp": 105,
+      "special-attack": 30,
+      "special-defense": 55,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "darmanitan",
+    "num": 555,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 92.9
+  },
+  "delcatty": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 65,
+      "hp": 70,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "delcatty",
+    "num": 301,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 32.6
+  },
+  "delibird": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 45,
+      "hp": 45,
+      "special-attack": 65,
+      "special-defense": 45,
+      "speed": 75
+    },
+    "has_physical_attacks": true,
+    "name": "delibird",
+    "num": 225,
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "weight_kg": 16.0
+  },
+  "deoxys": {
+    "base_stats": {
+      "attack": 150,
+      "defense": 50,
+      "hp": 50,
+      "special-attack": 150,
+      "special-defense": 50,
+      "speed": 150
+    },
+    "has_physical_attacks": true,
+    "name": "deoxys",
+    "num": 386,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 60.8
+  },
+  "deoxysattack": {
+    "base_stats": {
+      "attack": 180,
+      "defense": 20,
+      "hp": 50,
+      "special-attack": 180,
+      "special-defense": 20,
+      "speed": 150
+    },
+    "has_physical_attacks": true,
+    "name": "deoxysattack",
+    "num": 386,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 60.8
+  },
+  "deoxysdefense": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 160,
+      "hp": 50,
+      "special-attack": 70,
+      "special-defense": 160,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "deoxysdefense",
+    "num": 386,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 60.8
+  },
+  "deoxysspeed": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 90,
+      "hp": 50,
+      "special-attack": 95,
+      "special-defense": 90,
+      "speed": 180
+    },
+    "has_physical_attacks": true,
+    "name": "deoxysspeed",
+    "num": 386,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 60.8
+  },
+  "dewgong": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 80,
+      "hp": 90,
+      "special-attack": 70,
+      "special-defense": 95,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "dewgong",
+    "num": 87,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "weight_kg": 120.0
+  },
+  "dialga": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 100,
+      "special-attack": 150,
+      "special-defense": 100,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "dialga",
+    "num": 483,
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "weight_kg": 683.0
+  },
+  "ditto": {
+    "base_stats": {
+      "attack": 48,
+      "defense": 48,
+      "hp": 48,
+      "special-attack": 48,
+      "special-defense": 48,
+      "speed": 48
+    },
+    "has_physical_attacks": false,
+    "name": "ditto",
+    "num": 132,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 4.0
+  },
+  "dodrio": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 70,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 110
+    },
+    "has_physical_attacks": true,
+    "name": "dodrio",
+    "num": 85,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 85.2
+  },
+  "donphan": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 120,
+      "hp": 90,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "donphan",
+    "num": 232,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 120.0
+  },
+  "dragonair": {
+    "base_stats": {
+      "attack": 84,
+      "defense": 65,
+      "hp": 61,
+      "special-attack": 70,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "dragonair",
+    "num": 148,
+    "types": [
+      "dragon",
+      "typeless"
+    ],
+    "weight_kg": 16.5
+  },
+  "dragonite": {
+    "base_stats": {
+      "attack": 134,
+      "defense": 95,
+      "hp": 91,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "dragonite",
+    "num": 149,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "weight_kg": 210.0
+  },
+  "drapion": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 110,
+      "hp": 70,
+      "special-attack": 60,
+      "special-defense": 75,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "drapion",
+    "num": 452,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "weight_kg": 61.5
+  },
+  "drifblim": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 44,
+      "hp": 150,
+      "special-attack": 90,
+      "special-defense": 54,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "drifblim",
+    "num": 426,
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "weight_kg": 15.0
+  },
+  "druddigon": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 90,
+      "hp": 77,
+      "special-attack": 60,
+      "special-defense": 90,
+      "speed": 48
+    },
+    "has_physical_attacks": true,
+    "name": "druddigon",
+    "num": 621,
+    "types": [
+      "dragon",
+      "typeless"
+    ],
+    "weight_kg": 139.0
+  },
+  "dugtrio": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 50,
+      "hp": 35,
+      "special-attack": 50,
+      "special-defense": 70,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "dugtrio",
+    "num": 51,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 33.3
+  },
+  "dunsparce": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 70,
+      "hp": 100,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "dunsparce",
+    "num": 206,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 14.0
+  },
+  "durant": {
+    "base_stats": {
+      "attack": 109,
+      "defense": 112,
+      "hp": 58,
+      "special-attack": 48,
+      "special-defense": 48,
+      "speed": 109
+    },
+    "has_physical_attacks": true,
+    "name": "durant",
+    "num": 632,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "weight_kg": 33.0
+  },
+  "dusclops": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 130,
+      "hp": 40,
+      "special-attack": 60,
+      "special-defense": 130,
+      "speed": 25
+    },
+    "has_physical_attacks": true,
+    "name": "dusclops",
+    "num": 356,
+    "types": [
+      "ghost",
+      "typeless"
+    ],
+    "weight_kg": 30.6
+  },
+  "dusknoir": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 135,
+      "hp": 45,
+      "special-attack": 65,
+      "special-defense": 135,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "dusknoir",
+    "num": 477,
+    "types": [
+      "ghost",
+      "typeless"
+    ],
+    "weight_kg": 106.6
+  },
+  "dustox": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 70,
+      "hp": 60,
+      "special-attack": 50,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "dustox",
+    "num": 269,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "weight_kg": 31.6
+  },
+  "eelektross": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 80,
+      "hp": 85,
+      "special-attack": 105,
+      "special-defense": 80,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "eelektross",
+    "num": 604,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 80.5
+  },
+  "electivire": {
+    "base_stats": {
+      "attack": 123,
+      "defense": 67,
+      "hp": 75,
+      "special-attack": 95,
+      "special-defense": 85,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "electivire",
+    "num": 466,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 138.6
+  },
+  "electrode": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 70,
+      "hp": 60,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 150
+    },
+    "has_physical_attacks": true,
+    "name": "electrode",
+    "num": 101,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 66.6
+  },
+  "emboar": {
+    "base_stats": {
+      "attack": 123,
+      "defense": 65,
+      "hp": 110,
+      "special-attack": 100,
+      "special-defense": 65,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "emboar",
+    "num": 500,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "weight_kg": 150.0
+  },
+  "emolga": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 60,
+      "hp": 55,
+      "special-attack": 75,
+      "special-defense": 60,
+      "speed": 103
+    },
+    "has_physical_attacks": true,
+    "name": "emolga",
+    "num": 587,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "weight_kg": 5.0
+  },
+  "empoleon": {
+    "base_stats": {
+      "attack": 86,
+      "defense": 88,
+      "hp": 84,
+      "special-attack": 111,
+      "special-defense": 101,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "empoleon",
+    "num": 395,
+    "types": [
+      "water",
+      "steel"
+    ],
+    "weight_kg": 84.5
+  },
+  "entei": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 85,
+      "hp": 115,
+      "special-attack": 90,
+      "special-defense": 75,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "entei",
+    "num": 244,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 198.0
+  },
+  "escavalier": {
+    "base_stats": {
+      "attack": 135,
+      "defense": 105,
+      "hp": 70,
+      "special-attack": 60,
+      "special-defense": 105,
+      "speed": 20
+    },
+    "has_physical_attacks": true,
+    "name": "escavalier",
+    "num": 589,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "weight_kg": 33.0
+  },
+  "espeon": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 130,
+      "special-defense": 95,
+      "speed": 110
+    },
+    "has_physical_attacks": false,
+    "name": "espeon",
+    "num": 196,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 26.5
+  },
+  "excadrill": {
+    "base_stats": {
+      "attack": 135,
+      "defense": 60,
+      "hp": 110,
+      "special-attack": 50,
+      "special-defense": 65,
+      "speed": 88
+    },
+    "has_physical_attacks": true,
+    "name": "excadrill",
+    "num": 530,
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "weight_kg": 40.4
+  },
+  "exeggutor": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 85,
+      "hp": 95,
+      "special-attack": 125,
+      "special-defense": 75,
+      "speed": 55
+    },
+    "has_physical_attacks": false,
+    "name": "exeggutor",
+    "num": 103,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "weight_kg": 120.0
+  },
+  "exploud": {
+    "base_stats": {
+      "attack": 91,
+      "defense": 63,
+      "hp": 104,
+      "special-attack": 91,
+      "special-defense": 73,
+      "speed": 68
+    },
+    "has_physical_attacks": true,
+    "name": "exploud",
+    "num": 295,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 84.0
+  },
+  "farfetchd": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 55,
+      "hp": 52,
+      "special-attack": 58,
+      "special-defense": 62,
+      "speed": 60
+    },
+    "has_physical_attacks": true,
+    "name": "farfetchd",
+    "num": 83,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 15.0
+  },
+  "fearow": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 65,
+      "hp": 65,
+      "special-attack": 61,
+      "special-defense": 61,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "fearow",
+    "num": 22,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 38.0
+  },
+  "feraligatr": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 100,
+      "hp": 85,
+      "special-attack": 79,
+      "special-defense": 83,
+      "speed": 78
+    },
+    "has_physical_attacks": true,
+    "name": "feraligatr",
+    "num": 160,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 88.8
+  },
+  "ferrothorn": {
+    "base_stats": {
+      "attack": 94,
+      "defense": 131,
+      "hp": 74,
+      "special-attack": 54,
+      "special-defense": 116,
+      "speed": 20
+    },
+    "has_physical_attacks": true,
+    "name": "ferrothorn",
+    "num": 598,
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "weight_kg": 110.0
+  },
+  "flareon": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 95,
+      "special-defense": 110,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "flareon",
+    "num": 136,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 25.0
+  },
+  "floatzel": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 55,
+      "hp": 85,
+      "special-attack": 85,
+      "special-defense": 50,
+      "speed": 115
+    },
+    "has_physical_attacks": true,
+    "name": "floatzel",
+    "num": 419,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 33.5
+  },
+  "flygon": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 80,
+      "hp": 80,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "flygon",
+    "num": 330,
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "weight_kg": 82.0
+  },
+  "forretress": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 140,
+      "hp": 75,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "forretress",
+    "num": 205,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "weight_kg": 125.8
+  },
+  "froslass": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 80,
+      "special-defense": 70,
+      "speed": 110
+    },
+    "has_physical_attacks": false,
+    "name": "froslass",
+    "num": 478,
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "weight_kg": 26.6
+  },
+  "furret": {
+    "base_stats": {
+      "attack": 76,
+      "defense": 64,
+      "hp": 85,
+      "special-attack": 45,
+      "special-defense": 55,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "furret",
+    "num": 162,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 32.5
+  },
+  "gallade": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 65,
+      "hp": 68,
+      "special-attack": 65,
+      "special-defense": 115,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "gallade",
+    "num": 475,
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "weight_kg": 52.0
+  },
+  "galvantula": {
+    "base_stats": {
+      "attack": 77,
+      "defense": 60,
+      "hp": 70,
+      "special-attack": 97,
+      "special-defense": 60,
+      "speed": 108
+    },
+    "has_physical_attacks": false,
+    "name": "galvantula",
+    "num": 596,
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "weight_kg": 14.3
+  },
+  "garbodor": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 82,
+      "hp": 80,
+      "special-attack": 60,
+      "special-defense": 82,
+      "speed": 75
+    },
+    "has_physical_attacks": true,
+    "name": "garbodor",
+    "num": 569,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 107.3
+  },
+  "garchomp": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 95,
+      "hp": 108,
+      "special-attack": 80,
+      "special-defense": 85,
+      "speed": 102
+    },
+    "has_physical_attacks": true,
+    "name": "garchomp",
+    "num": 445,
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "weight_kg": 95.0
+  },
+  "gardevoir": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 65,
+      "hp": 68,
+      "special-attack": 125,
+      "special-defense": 115,
+      "speed": 80
+    },
+    "has_physical_attacks": false,
+    "name": "gardevoir",
+    "num": 282,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "weight_kg": 48.4
+  },
+  "gastrodon": {
+    "base_stats": {
+      "attack": 83,
+      "defense": 68,
+      "hp": 111,
+      "special-attack": 92,
+      "special-defense": 82,
+      "speed": 39
+    },
+    "has_physical_attacks": true,
+    "name": "gastrodon",
+    "num": 423,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "weight_kg": 29.9
+  },
+  "genesect": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 95,
+      "hp": 71,
+      "special-attack": 120,
+      "special-defense": 95,
+      "speed": 99
+    },
+    "has_physical_attacks": true,
+    "name": "genesect",
+    "num": 649,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "weight_kg": 82.5
+  },
+  "gengar": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 60,
+      "hp": 60,
+      "special-attack": 130,
+      "special-defense": 75,
+      "speed": 110
+    },
+    "has_physical_attacks": false,
+    "name": "gengar",
+    "num": 94,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "weight_kg": 40.5
+  },
+  "gigalith": {
+    "base_stats": {
+      "attack": 135,
+      "defense": 130,
+      "hp": 85,
+      "special-attack": 60,
+      "special-defense": 80,
+      "speed": 25
+    },
+    "has_physical_attacks": true,
+    "name": "gigalith",
+    "num": 526,
+    "types": [
+      "rock",
+      "typeless"
+    ],
+    "weight_kg": 260.0
+  },
+  "girafarig": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 65,
+      "hp": 70,
+      "special-attack": 90,
+      "special-defense": 65,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "girafarig",
+    "num": 203,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "weight_kg": 41.5
+  },
+  "giratina": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 120,
+      "hp": 150,
+      "special-attack": 100,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "giratina",
+    "num": 487,
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "weight_kg": 750.0
+  },
+  "giratinaorigin": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 100,
+      "hp": 150,
+      "special-attack": 120,
+      "special-defense": 100,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "giratinaorigin",
+    "num": 487,
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "weight_kg": 650.0
+  },
+  "glaceon": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 110,
+      "hp": 65,
+      "special-attack": 130,
+      "special-defense": 95,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "glaceon",
+    "num": 471,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 25.9
+  },
+  "glalie": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 80,
+      "hp": 80,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "glalie",
+    "num": 362,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 256.5
+  },
+  "gligar": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 105,
+      "hp": 65,
+      "special-attack": 35,
+      "special-defense": 65,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "gligar",
+    "num": 207,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "weight_kg": 64.8
+  },
+  "gliscor": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 125,
+      "hp": 75,
+      "special-attack": 45,
+      "special-defense": 75,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "gliscor",
+    "num": 472,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "weight_kg": 42.5
+  },
+  "golduck": {
+    "base_stats": {
+      "attack": 82,
+      "defense": 78,
+      "hp": 80,
+      "special-attack": 95,
+      "special-defense": 80,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "golduck",
+    "num": 55,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 76.6
+  },
+  "golem": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 130,
+      "hp": 80,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "golem",
+    "num": 76,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "weight_kg": 300.0
+  },
+  "golurk": {
+    "base_stats": {
+      "attack": 124,
+      "defense": 80,
+      "hp": 89,
+      "special-attack": 55,
+      "special-defense": 80,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "golurk",
+    "num": 623,
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "weight_kg": 330.0
+  },
+  "gorebyss": {
+    "base_stats": {
+      "attack": 84,
+      "defense": 105,
+      "hp": 55,
+      "special-attack": 114,
+      "special-defense": 75,
+      "speed": 52
+    },
+    "has_physical_attacks": false,
+    "name": "gorebyss",
+    "num": 368,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 22.6
+  },
+  "gothitelle": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 95,
+      "hp": 70,
+      "special-attack": 95,
+      "special-defense": 110,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "gothitelle",
+    "num": 576,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 44.0
+  },
+  "granbull": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 75,
+      "hp": 90,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "granbull",
+    "num": 210,
+    "types": [
+      "fairy",
+      "typeless"
+    ],
+    "weight_kg": 48.7
+  },
+  "groudon": {
+    "base_stats": {
+      "attack": 150,
+      "defense": 140,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 90,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "groudon",
+    "num": 383,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 950.0
+  },
+  "grumpig": {
+    "base_stats": {
+      "attack": 45,
+      "defense": 65,
+      "hp": 80,
+      "special-attack": 90,
+      "special-defense": 110,
+      "speed": 80
+    },
+    "has_physical_attacks": false,
+    "name": "grumpig",
+    "num": 326,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 71.5
+  },
+  "gyarados": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 79,
+      "hp": 95,
+      "special-attack": 60,
+      "special-defense": 100,
+      "speed": 81
+    },
+    "has_physical_attacks": true,
+    "name": "gyarados",
+    "num": 130,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "weight_kg": 235.0
+  },
+  "hariyama": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 60,
+      "hp": 144,
+      "special-attack": 40,
+      "special-defense": 60,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "hariyama",
+    "num": 297,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 253.8
+  },
+  "haxorus": {
+    "base_stats": {
+      "attack": 147,
+      "defense": 90,
+      "hp": 76,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 97
+    },
+    "has_physical_attacks": true,
+    "name": "haxorus",
+    "num": 612,
+    "types": [
+      "dragon",
+      "typeless"
+    ],
+    "weight_kg": 105.5
+  },
+  "heatmor": {
+    "base_stats": {
+      "attack": 97,
+      "defense": 66,
+      "hp": 85,
+      "special-attack": 105,
+      "special-defense": 66,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "heatmor",
+    "num": 631,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 58.0
+  },
+  "heatran": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 106,
+      "hp": 91,
+      "special-attack": 130,
+      "special-defense": 106,
+      "speed": 77
+    },
+    "has_physical_attacks": false,
+    "name": "heatran",
+    "num": 485,
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "weight_kg": 430.0
+  },
+  "heracross": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 75,
+      "hp": 80,
+      "special-attack": 40,
+      "special-defense": 95,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "heracross",
+    "num": 214,
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "weight_kg": 54.0
+  },
+  "hippowdon": {
+    "base_stats": {
+      "attack": 112,
+      "defense": 118,
+      "hp": 108,
+      "special-attack": 68,
+      "special-defense": 72,
+      "speed": 47
+    },
+    "has_physical_attacks": true,
+    "name": "hippowdon",
+    "num": 450,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 300.0
+  },
+  "hitmonchan": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 79,
+      "hp": 50,
+      "special-attack": 35,
+      "special-defense": 110,
+      "speed": 76
+    },
+    "has_physical_attacks": true,
+    "name": "hitmonchan",
+    "num": 107,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 50.2
+  },
+  "hitmonlee": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 53,
+      "hp": 50,
+      "special-attack": 35,
+      "special-defense": 110,
+      "speed": 87
+    },
+    "has_physical_attacks": true,
+    "name": "hitmonlee",
+    "num": 106,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 49.8
+  },
+  "hitmontop": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 95,
+      "hp": 50,
+      "special-attack": 35,
+      "special-defense": 110,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "hitmontop",
+    "num": 237,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 48.0
+  },
+  "honchkrow": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 52,
+      "hp": 100,
+      "special-attack": 105,
+      "special-defense": 52,
+      "speed": 71
+    },
+    "has_physical_attacks": true,
+    "name": "honchkrow",
+    "num": 430,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "weight_kg": 27.3
+  },
+  "hooh": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 90,
+      "hp": 106,
+      "special-attack": 110,
+      "special-defense": 154,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "hooh",
+    "num": 250,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "weight_kg": 199.0
+  },
+  "houndoom": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 50,
+      "hp": 75,
+      "special-attack": 110,
+      "special-defense": 80,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "houndoom",
+    "num": 229,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "weight_kg": 35.0
+  },
+  "huntail": {
+    "base_stats": {
+      "attack": 104,
+      "defense": 105,
+      "hp": 55,
+      "special-attack": 94,
+      "special-defense": 75,
+      "speed": 52
+    },
+    "has_physical_attacks": true,
+    "name": "huntail",
+    "num": 367,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 27.0
+  },
+  "hydreigon": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 90,
+      "hp": 92,
+      "special-attack": 125,
+      "special-defense": 90,
+      "speed": 98
+    },
+    "has_physical_attacks": true,
+    "name": "hydreigon",
+    "num": 635,
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "weight_kg": 160.0
+  },
+  "hypno": {
+    "base_stats": {
+      "attack": 73,
+      "defense": 70,
+      "hp": 85,
+      "special-attack": 73,
+      "special-defense": 115,
+      "speed": 67
+    },
+    "has_physical_attacks": true,
+    "name": "hypno",
+    "num": 97,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 75.6
+  },
+  "illumise": {
+    "base_stats": {
+      "attack": 47,
+      "defense": 75,
+      "hp": 65,
+      "special-attack": 73,
+      "special-defense": 85,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "illumise",
+    "num": 314,
+    "types": [
+      "bug",
+      "typeless"
+    ],
+    "weight_kg": 17.7
+  },
+  "infernape": {
+    "base_stats": {
+      "attack": 104,
+      "defense": 71,
+      "hp": 76,
+      "special-attack": 104,
+      "special-defense": 71,
+      "speed": 108
+    },
+    "has_physical_attacks": true,
+    "name": "infernape",
+    "num": 392,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "weight_kg": 55.0
+  },
+  "jellicent": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 70,
+      "hp": 100,
+      "special-attack": 85,
+      "special-defense": 105,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "jellicent",
+    "num": 593,
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "weight_kg": 135.0
+  },
+  "jirachi": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "jirachi",
+    "num": 385,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "weight_kg": 1.1
+  },
+  "jolteon": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 110,
+      "special-defense": 95,
+      "speed": 130
+    },
+    "has_physical_attacks": false,
+    "name": "jolteon",
+    "num": 135,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 24.5
+  },
+  "jumpluff": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 70,
+      "hp": 75,
+      "special-attack": 55,
+      "special-defense": 95,
+      "speed": 110
+    },
+    "has_physical_attacks": true,
+    "name": "jumpluff",
+    "num": 189,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "weight_kg": 3.0
+  },
+  "jynx": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 35,
+      "hp": 65,
+      "special-attack": 115,
+      "special-defense": 95,
+      "speed": 95
+    },
+    "has_physical_attacks": false,
+    "name": "jynx",
+    "num": 124,
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "weight_kg": 40.6
+  },
+  "kabutops": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 105,
+      "hp": 60,
+      "special-attack": 65,
+      "special-defense": 70,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "kabutops",
+    "num": 141,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "weight_kg": 40.5
+  },
+  "kangaskhan": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 80,
+      "hp": 105,
+      "special-attack": 40,
+      "special-defense": 80,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "kangaskhan",
+    "num": 115,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 80.0
+  },
+  "kecleon": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 70,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 120,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "kecleon",
+    "num": 352,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 22.0
+  },
+  "keldeo": {
+    "base_stats": {
+      "attack": 72,
+      "defense": 90,
+      "hp": 91,
+      "special-attack": 129,
+      "special-defense": 90,
+      "speed": 108
+    },
+    "has_physical_attacks": false,
+    "name": "keldeo",
+    "num": 647,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "weight_kg": 48.5
+  },
+  "kingdra": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 95,
+      "hp": 75,
+      "special-attack": 95,
+      "special-defense": 95,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "kingdra",
+    "num": 230,
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "weight_kg": 152.0
+  },
+  "kingler": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 115,
+      "hp": 55,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 75
+    },
+    "has_physical_attacks": true,
+    "name": "kingler",
+    "num": 99,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 60.0
+  },
+  "klinklang": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 115,
+      "hp": 60,
+      "special-attack": 70,
+      "special-defense": 85,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "klinklang",
+    "num": 601,
+    "types": [
+      "steel",
+      "typeless"
+    ],
+    "weight_kg": 81.0
+  },
+  "kricketune": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 51,
+      "hp": 77,
+      "special-attack": 55,
+      "special-defense": 51,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "kricketune",
+    "num": 402,
+    "types": [
+      "bug",
+      "typeless"
+    ],
+    "weight_kg": 25.5
+  },
+  "krookodile": {
+    "base_stats": {
+      "attack": 117,
+      "defense": 80,
+      "hp": 95,
+      "special-attack": 65,
+      "special-defense": 70,
+      "speed": 92
+    },
+    "has_physical_attacks": true,
+    "name": "krookodile",
+    "num": 553,
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "weight_kg": 96.3
+  },
+  "kyogre": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 90,
+      "hp": 100,
+      "special-attack": 150,
+      "special-defense": 140,
+      "speed": 90
+    },
+    "has_physical_attacks": false,
+    "name": "kyogre",
+    "num": 382,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 352.0
+  },
+  "kyurem": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 90,
+      "hp": 125,
+      "special-attack": 130,
+      "special-defense": 90,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "kyurem",
+    "num": 646,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "weight_kg": 325.0
+  },
+  "kyuremblack": {
+    "base_stats": {
+      "attack": 170,
+      "defense": 100,
+      "hp": 125,
+      "special-attack": 120,
+      "special-defense": 90,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "kyuremblack",
+    "num": 646,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "weight_kg": 325.0
+  },
+  "kyuremwhite": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 90,
+      "hp": 125,
+      "special-attack": 170,
+      "special-defense": 100,
+      "speed": 95
+    },
+    "has_physical_attacks": false,
+    "name": "kyuremwhite",
+    "num": 646,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "weight_kg": 325.0
+  },
+  "landorus": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 90,
+      "hp": 89,
+      "special-attack": 115,
+      "special-defense": 80,
+      "speed": 101
+    },
+    "has_physical_attacks": true,
+    "name": "landorus",
+    "num": 645,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "weight_kg": 68.0
+  },
+  "landorustherian": {
+    "base_stats": {
+      "attack": 145,
+      "defense": 90,
+      "hp": 89,
+      "special-attack": 105,
+      "special-defense": 80,
+      "speed": 91
+    },
+    "has_physical_attacks": true,
+    "name": "landorustherian",
+    "num": 645,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "weight_kg": 68.0
+  },
+  "lanturn": {
+    "base_stats": {
+      "attack": 58,
+      "defense": 58,
+      "hp": 125,
+      "special-attack": 76,
+      "special-defense": 76,
+      "speed": 67
+    },
+    "has_physical_attacks": false,
+    "name": "lanturn",
+    "num": 171,
+    "types": [
+      "water",
+      "electric"
+    ],
+    "weight_kg": 22.5
+  },
+  "lapras": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 80,
+      "hp": 130,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "lapras",
+    "num": 131,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "weight_kg": 220.0
+  },
+  "latias": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 90,
+      "hp": 80,
+      "special-attack": 110,
+      "special-defense": 130,
+      "speed": 110
+    },
+    "has_physical_attacks": false,
+    "name": "latias",
+    "num": 380,
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "weight_kg": 40.0
+  },
+  "latios": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 80,
+      "hp": 80,
+      "special-attack": 130,
+      "special-defense": 110,
+      "speed": 110
+    },
+    "has_physical_attacks": false,
+    "name": "latios",
+    "num": 381,
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "weight_kg": 60.0
+  },
+  "leafeon": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 130,
+      "hp": 65,
+      "special-attack": 60,
+      "special-defense": 65,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "leafeon",
+    "num": 470,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 25.5
+  },
+  "leavanny": {
+    "base_stats": {
+      "attack": 103,
+      "defense": 80,
+      "hp": 75,
+      "special-attack": 70,
+      "special-defense": 80,
+      "speed": 92
+    },
+    "has_physical_attacks": true,
+    "name": "leavanny",
+    "num": 542,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "weight_kg": 20.5
+  },
+  "ledian": {
+    "base_stats": {
+      "attack": 35,
+      "defense": 50,
+      "hp": 55,
+      "special-attack": 55,
+      "special-defense": 110,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "ledian",
+    "num": 166,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 35.6
+  },
+  "lickilicky": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 95,
+      "hp": 110,
+      "special-attack": 80,
+      "special-defense": 95,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "lickilicky",
+    "num": 463,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 140.0
+  },
+  "liepard": {
+    "base_stats": {
+      "attack": 88,
+      "defense": 50,
+      "hp": 64,
+      "special-attack": 88,
+      "special-defense": 50,
+      "speed": 106
+    },
+    "has_physical_attacks": false,
+    "name": "liepard",
+    "num": 510,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 37.5
+  },
+  "lilligant": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 75,
+      "hp": 70,
+      "special-attack": 110,
+      "special-defense": 75,
+      "speed": 90
+    },
+    "has_physical_attacks": false,
+    "name": "lilligant",
+    "num": 549,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 16.3
+  },
+  "linoone": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 61,
+      "hp": 78,
+      "special-attack": 50,
+      "special-defense": 61,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "linoone",
+    "num": 264,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 32.5
+  },
+  "lopunny": {
+    "base_stats": {
+      "attack": 76,
+      "defense": 84,
+      "hp": 65,
+      "special-attack": 54,
+      "special-defense": 96,
+      "speed": 105
+    },
+    "has_physical_attacks": true,
+    "name": "lopunny",
+    "num": 428,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 33.3
+  },
+  "lucario": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 115,
+      "special-defense": 70,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "lucario",
+    "num": 448,
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "weight_kg": 54.0
+  },
+  "ludicolo": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 70,
+      "hp": 80,
+      "special-attack": 90,
+      "special-defense": 100,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "ludicolo",
+    "num": 272,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "weight_kg": 55.0
+  },
+  "lugia": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 130,
+      "hp": 106,
+      "special-attack": 90,
+      "special-defense": 154,
+      "speed": 110
+    },
+    "has_physical_attacks": true,
+    "name": "lugia",
+    "num": 249,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "weight_kg": 216.0
+  },
+  "lumineon": {
+    "base_stats": {
+      "attack": 69,
+      "defense": 76,
+      "hp": 69,
+      "special-attack": 69,
+      "special-defense": 86,
+      "speed": 91
+    },
+    "has_physical_attacks": true,
+    "name": "lumineon",
+    "num": 457,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 24.0
+  },
+  "lunatone": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 65,
+      "hp": 90,
+      "special-attack": 95,
+      "special-defense": 85,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "lunatone",
+    "num": 337,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "weight_kg": 168.0
+  },
+  "luvdisc": {
+    "base_stats": {
+      "attack": 30,
+      "defense": 55,
+      "hp": 43,
+      "special-attack": 40,
+      "special-defense": 65,
+      "speed": 97
+    },
+    "has_physical_attacks": false,
+    "name": "luvdisc",
+    "num": 370,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 8.7
+  },
+  "luxray": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 79,
+      "hp": 80,
+      "special-attack": 95,
+      "special-defense": 79,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "luxray",
+    "num": 405,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 42.0
+  },
+  "machamp": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 80,
+      "hp": 90,
+      "special-attack": 65,
+      "special-defense": 85,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "machamp",
+    "num": 68,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 130.0
+  },
+  "magcargo": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 120,
+      "hp": 60,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "has_physical_attacks": false,
+    "name": "magcargo",
+    "num": 219,
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "weight_kg": 55.0
+  },
+  "magmortar": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 67,
+      "hp": 75,
+      "special-attack": 125,
+      "special-defense": 95,
+      "speed": 83
+    },
+    "has_physical_attacks": true,
+    "name": "magmortar",
+    "num": 467,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 68.0
+  },
+  "magnezone": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 115,
+      "hp": 70,
+      "special-attack": 130,
+      "special-defense": 90,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "magnezone",
+    "num": 462,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "weight_kg": 180.0
+  },
+  "mamoswine": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 80,
+      "hp": 110,
+      "special-attack": 70,
+      "special-defense": 60,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "mamoswine",
+    "num": 473,
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "weight_kg": 291.0
+  },
+  "manaphy": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": false,
+    "name": "manaphy",
+    "num": 490,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 1.4
+  },
+  "mandibuzz": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 105,
+      "hp": 110,
+      "special-attack": 55,
+      "special-defense": 95,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "mandibuzz",
+    "num": 630,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "weight_kg": 39.5
+  },
+  "manectric": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 60,
+      "hp": 70,
+      "special-attack": 105,
+      "special-defense": 60,
+      "speed": 105
+    },
+    "has_physical_attacks": false,
+    "name": "manectric",
+    "num": 310,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 40.2
+  },
+  "mantine": {
+    "base_stats": {
+      "attack": 40,
+      "defense": 70,
+      "hp": 85,
+      "special-attack": 80,
+      "special-defense": 140,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "mantine",
+    "num": 226,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "weight_kg": 220.0
+  },
+  "maractus": {
+    "base_stats": {
+      "attack": 86,
+      "defense": 67,
+      "hp": 75,
+      "special-attack": 106,
+      "special-defense": 67,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "maractus",
+    "num": 556,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 28.0
+  },
+  "marowak": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 110,
+      "hp": 60,
+      "special-attack": 50,
+      "special-defense": 80,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "marowak",
+    "num": 105,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 45.0
+  },
+  "masquerain": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 62,
+      "hp": 70,
+      "special-attack": 100,
+      "special-defense": 82,
+      "speed": 80
+    },
+    "has_physical_attacks": false,
+    "name": "masquerain",
+    "num": 284,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 3.6
+  },
+  "mawile": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 85,
+      "hp": 50,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "mawile",
+    "num": 303,
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "weight_kg": 11.5
+  },
+  "medicham": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 75,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 75,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "medicham",
+    "num": 308,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "weight_kg": 31.5
+  },
+  "meganium": {
+    "base_stats": {
+      "attack": 82,
+      "defense": 100,
+      "hp": 80,
+      "special-attack": 83,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "meganium",
+    "num": 154,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 100.5
+  },
+  "meloetta": {
+    "base_stats": {
+      "attack": 77,
+      "defense": 77,
+      "hp": 100,
+      "special-attack": 128,
+      "special-defense": 128,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "meloetta",
+    "num": 648,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "weight_kg": 6.5
+  },
+  "mesprit": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 105,
+      "hp": 80,
+      "special-attack": 105,
+      "special-defense": 105,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "mesprit",
+    "num": 481,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 0.3
+  },
+  "metagross": {
+    "base_stats": {
+      "attack": 135,
+      "defense": 130,
+      "hp": 80,
+      "special-attack": 95,
+      "special-defense": 90,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "metagross",
+    "num": 376,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "weight_kg": 550.0
+  },
+  "mew": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "mew",
+    "num": 151,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 4.0
+  },
+  "mewtwo": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 90,
+      "hp": 106,
+      "special-attack": 154,
+      "special-defense": 90,
+      "speed": 130
+    },
+    "has_physical_attacks": false,
+    "name": "mewtwo",
+    "num": 150,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 122.0
+  },
+  "mienshao": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 95,
+      "special-defense": 60,
+      "speed": 105
+    },
+    "has_physical_attacks": true,
+    "name": "mienshao",
+    "num": 620,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 35.5
+  },
+  "mightyena": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 70,
+      "hp": 70,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "mightyena",
+    "num": 262,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 37.0
+  },
+  "milotic": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 79,
+      "hp": 95,
+      "special-attack": 100,
+      "special-defense": 125,
+      "speed": 81
+    },
+    "has_physical_attacks": true,
+    "name": "milotic",
+    "num": 350,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 162.0
+  },
+  "miltank": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 105,
+      "hp": 95,
+      "special-attack": 40,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "miltank",
+    "num": 241,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 75.5
+  },
+  "minun": {
+    "base_stats": {
+      "attack": 40,
+      "defense": 50,
+      "hp": 60,
+      "special-attack": 75,
+      "special-defense": 85,
+      "speed": 95
+    },
+    "has_physical_attacks": false,
+    "name": "minun",
+    "num": 312,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 4.2
+  },
+  "mismagius": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 60,
+      "hp": 60,
+      "special-attack": 105,
+      "special-defense": 105,
+      "speed": 105
+    },
+    "has_physical_attacks": false,
+    "name": "mismagius",
+    "num": 429,
+    "types": [
+      "ghost",
+      "typeless"
+    ],
+    "weight_kg": 4.4
+  },
+  "moltres": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 90,
+      "hp": 90,
+      "special-attack": 125,
+      "special-defense": 85,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "moltres",
+    "num": 146,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "weight_kg": 60.0
+  },
+  "mothim": {
+    "base_stats": {
+      "attack": 94,
+      "defense": 50,
+      "hp": 70,
+      "special-attack": 94,
+      "special-defense": 50,
+      "speed": 66
+    },
+    "has_physical_attacks": false,
+    "name": "mothim",
+    "num": 414,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 23.3
+  },
+  "mrmime": {
+    "base_stats": {
+      "attack": 45,
+      "defense": 65,
+      "hp": 40,
+      "special-attack": 100,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "has_physical_attacks": false,
+    "name": "mrmime",
+    "num": 122,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "weight_kg": 54.5
+  },
+  "muk": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 75,
+      "hp": 105,
+      "special-attack": 65,
+      "special-defense": 100,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "muk",
+    "num": 89,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 30.0
+  },
+  "murkrow": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 42,
+      "hp": 60,
+      "special-attack": 85,
+      "special-defense": 42,
+      "speed": 91
+    },
+    "has_physical_attacks": true,
+    "name": "murkrow",
+    "num": 198,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "weight_kg": 2.1
+  },
+  "musharna": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 85,
+      "hp": 116,
+      "special-attack": 107,
+      "special-defense": 95,
+      "speed": 29
+    },
+    "has_physical_attacks": false,
+    "name": "musharna",
+    "num": 518,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 60.5
+  },
+  "nidoking": {
+    "base_stats": {
+      "attack": 102,
+      "defense": 77,
+      "hp": 81,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "nidoking",
+    "num": 34,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "weight_kg": 62.0
+  },
+  "nidoqueen": {
+    "base_stats": {
+      "attack": 92,
+      "defense": 87,
+      "hp": 90,
+      "special-attack": 75,
+      "special-defense": 85,
+      "speed": 76
+    },
+    "has_physical_attacks": false,
+    "name": "nidoqueen",
+    "num": 31,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "weight_kg": 60.0
+  },
+  "ninetales": {
+    "base_stats": {
+      "attack": 76,
+      "defense": 75,
+      "hp": 73,
+      "special-attack": 81,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": false,
+    "name": "ninetales",
+    "num": 38,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 19.9
+  },
+  "ninjask": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 45,
+      "hp": 61,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 160
+    },
+    "has_physical_attacks": true,
+    "name": "ninjask",
+    "num": 291,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 12.0
+  },
+  "noctowl": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 50,
+      "hp": 100,
+      "special-attack": 86,
+      "special-defense": 96,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "noctowl",
+    "num": 164,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 40.8
+  },
+  "octillery": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 75,
+      "hp": 75,
+      "special-attack": 105,
+      "special-defense": 75,
+      "speed": 45
+    },
+    "has_physical_attacks": false,
+    "name": "octillery",
+    "num": 224,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 28.5
+  },
+  "omastar": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 125,
+      "hp": 70,
+      "special-attack": 115,
+      "special-defense": 70,
+      "speed": 55
+    },
+    "has_physical_attacks": false,
+    "name": "omastar",
+    "num": 139,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "weight_kg": 35.0
+  },
+  "pachirisu": {
+    "base_stats": {
+      "attack": 45,
+      "defense": 70,
+      "hp": 60,
+      "special-attack": 45,
+      "special-defense": 90,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "pachirisu",
+    "num": 417,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 3.9
+  },
+  "palkia": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 100,
+      "hp": 90,
+      "special-attack": 150,
+      "special-defense": 120,
+      "speed": 100
+    },
+    "has_physical_attacks": false,
+    "name": "palkia",
+    "num": 484,
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "weight_kg": 336.0
+  },
+  "parasect": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 80,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "has_physical_attacks": true,
+    "name": "parasect",
+    "num": 47,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "weight_kg": 29.5
+  },
+  "pelipper": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 100,
+      "hp": 60,
+      "special-attack": 95,
+      "special-defense": 70,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "pelipper",
+    "num": 279,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "weight_kg": 28.0
+  },
+  "persian": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 115
+    },
+    "has_physical_attacks": true,
+    "name": "persian",
+    "num": 53,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 32.0
+  },
+  "phione": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 80,
+      "hp": 80,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "phione",
+    "num": 489,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 3.1
+  },
+  "pidgeot": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 75,
+      "hp": 83,
+      "special-attack": 70,
+      "special-defense": 70,
+      "speed": 101
+    },
+    "has_physical_attacks": true,
+    "name": "pidgeot",
+    "num": 18,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 39.5
+  },
+  "pikachu": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 40,
+      "hp": 35,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "pikachu",
+    "num": 25,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 6.0
+  },
+  "pinsir": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 100,
+      "hp": 65,
+      "special-attack": 55,
+      "special-defense": 70,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "pinsir",
+    "num": 127,
+    "types": [
+      "bug",
+      "typeless"
+    ],
+    "weight_kg": 55.0
+  },
+  "plusle": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 40,
+      "hp": 60,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 95
+    },
+    "has_physical_attacks": false,
+    "name": "plusle",
+    "num": 311,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 4.2
+  },
+  "politoed": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 75,
+      "hp": 90,
+      "special-attack": 90,
+      "special-defense": 100,
+      "speed": 70
+    },
+    "has_physical_attacks": false,
+    "name": "politoed",
+    "num": 186,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 33.9
+  },
+  "poliwrath": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 95,
+      "hp": 90,
+      "special-attack": 70,
+      "special-defense": 90,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "poliwrath",
+    "num": 62,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "weight_kg": 54.0
+  },
+  "porygon2": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 90,
+      "hp": 85,
+      "special-attack": 105,
+      "special-defense": 95,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "porygon2",
+    "num": 233,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 32.5
+  },
+  "porygonz": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 70,
+      "hp": 85,
+      "special-attack": 135,
+      "special-defense": 75,
+      "speed": 90
+    },
+    "has_physical_attacks": false,
+    "name": "porygonz",
+    "num": 474,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 34.0
+  },
+  "primeape": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 60,
+      "hp": 65,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "primeape",
+    "num": 57,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 32.0
+  },
+  "probopass": {
+    "base_stats": {
+      "attack": 55,
+      "defense": 145,
+      "hp": 60,
+      "special-attack": 75,
+      "special-defense": 150,
+      "speed": 40
+    },
+    "has_physical_attacks": false,
+    "name": "probopass",
+    "num": 476,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "weight_kg": 340.0
+  },
+  "purugly": {
+    "base_stats": {
+      "attack": 82,
+      "defense": 64,
+      "hp": 71,
+      "special-attack": 64,
+      "special-defense": 59,
+      "speed": 112
+    },
+    "has_physical_attacks": true,
+    "name": "purugly",
+    "num": 432,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 43.8
+  },
+  "quagsire": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 85,
+      "hp": 95,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 35
+    },
+    "has_physical_attacks": true,
+    "name": "quagsire",
+    "num": 195,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "weight_kg": 75.0
+  },
+  "qwilfish": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 85,
+      "hp": 65,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "qwilfish",
+    "num": 211,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "weight_kg": 3.9
+  },
+  "raichu": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 55,
+      "hp": 60,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 110
+    },
+    "has_physical_attacks": false,
+    "name": "raichu",
+    "num": 26,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 30.0
+  },
+  "raikou": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 75,
+      "hp": 90,
+      "special-attack": 115,
+      "special-defense": 100,
+      "speed": 115
+    },
+    "has_physical_attacks": false,
+    "name": "raikou",
+    "num": 243,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 178.0
+  },
+  "rampardos": {
+    "base_stats": {
+      "attack": 165,
+      "defense": 60,
+      "hp": 97,
+      "special-attack": 65,
+      "special-defense": 50,
+      "speed": 58
+    },
+    "has_physical_attacks": true,
+    "name": "rampardos",
+    "num": 409,
+    "types": [
+      "rock",
+      "typeless"
+    ],
+    "weight_kg": 102.5
+  },
+  "rapidash": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 70,
+      "hp": 65,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 105
+    },
+    "has_physical_attacks": true,
+    "name": "rapidash",
+    "num": 78,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 95.0
+  },
+  "raticate": {
+    "base_stats": {
+      "attack": 81,
+      "defense": 60,
+      "hp": 55,
+      "special-attack": 50,
+      "special-defense": 70,
+      "speed": 97
+    },
+    "has_physical_attacks": true,
+    "name": "raticate",
+    "num": 20,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 18.5
+  },
+  "rayquaza": {
+    "base_stats": {
+      "attack": 150,
+      "defense": 90,
+      "hp": 105,
+      "special-attack": 150,
+      "special-defense": 90,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "rayquaza",
+    "num": 384,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "weight_kg": 206.5
+  },
+  "regice": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 100,
+      "hp": 80,
+      "special-attack": 100,
+      "special-defense": 200,
+      "speed": 50
+    },
+    "has_physical_attacks": false,
+    "name": "regice",
+    "num": 378,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 175.0
+  },
+  "regigigas": {
+    "base_stats": {
+      "attack": 160,
+      "defense": 110,
+      "hp": 110,
+      "special-attack": 80,
+      "special-defense": 110,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "regigigas",
+    "num": 486,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 420.0
+  },
+  "regirock": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 200,
+      "hp": 80,
+      "special-attack": 50,
+      "special-defense": 100,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "regirock",
+    "num": 377,
+    "types": [
+      "rock",
+      "typeless"
+    ],
+    "weight_kg": 230.0
+  },
+  "registeel": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 150,
+      "hp": 80,
+      "special-attack": 75,
+      "special-defense": 150,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "registeel",
+    "num": 379,
+    "types": [
+      "steel",
+      "typeless"
+    ],
+    "weight_kg": 205.0
+  },
+  "relicanth": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 130,
+      "hp": 100,
+      "special-attack": 45,
+      "special-defense": 65,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "relicanth",
+    "num": 369,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "weight_kg": 23.4
+  },
+  "reshiram": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 150,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "reshiram",
+    "num": 643,
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "weight_kg": 330.0
+  },
+  "reuniclus": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 75,
+      "hp": 110,
+      "special-attack": 125,
+      "special-defense": 85,
+      "speed": 30
+    },
+    "has_physical_attacks": false,
+    "name": "reuniclus",
+    "num": 579,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 20.1
+  },
+  "rhydon": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 120,
+      "hp": 105,
+      "special-attack": 45,
+      "special-defense": 45,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "rhydon",
+    "num": 112,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "weight_kg": 120.0
+  },
+  "rhyperior": {
+    "base_stats": {
+      "attack": 140,
+      "defense": 130,
+      "hp": 115,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "rhyperior",
+    "num": 464,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "weight_kg": 282.8
+  },
+  "roserade": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 65,
+      "hp": 60,
+      "special-attack": 125,
+      "special-defense": 105,
+      "speed": 90
+    },
+    "has_physical_attacks": false,
+    "name": "roserade",
+    "num": 407,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "weight_kg": 14.5
+  },
+  "rotom": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 77,
+      "hp": 50,
+      "special-attack": 95,
+      "special-defense": 77,
+      "speed": 91
+    },
+    "has_physical_attacks": false,
+    "name": "rotom",
+    "num": 479,
+    "types": [
+      "electric",
+      "ghost"
+    ],
+    "weight_kg": 0.3
+  },
+  "rotomfan": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 107,
+      "hp": 50,
+      "special-attack": 105,
+      "special-defense": 107,
+      "speed": 86
+    },
+    "has_physical_attacks": false,
+    "name": "rotomfan",
+    "num": 479,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "weight_kg": 0.3
+  },
+  "rotomfrost": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 107,
+      "hp": 50,
+      "special-attack": 105,
+      "special-defense": 107,
+      "speed": 86
+    },
+    "has_physical_attacks": false,
+    "name": "rotomfrost",
+    "num": 479,
+    "types": [
+      "electric",
+      "ice"
+    ],
+    "weight_kg": 0.3
+  },
+  "rotomheat": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 107,
+      "hp": 50,
+      "special-attack": 105,
+      "special-defense": 107,
+      "speed": 86
+    },
+    "has_physical_attacks": false,
+    "name": "rotomheat",
+    "num": 479,
+    "types": [
+      "electric",
+      "fire"
+    ],
+    "weight_kg": 0.3
+  },
+  "rotommow": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 107,
+      "hp": 50,
+      "special-attack": 105,
+      "special-defense": 107,
+      "speed": 86
+    },
+    "has_physical_attacks": false,
+    "name": "rotommow",
+    "num": 479,
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "weight_kg": 0.3
+  },
+  "rotomwash": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 107,
+      "hp": 50,
+      "special-attack": 105,
+      "special-defense": 107,
+      "speed": 86
+    },
+    "has_physical_attacks": false,
+    "name": "rotomwash",
+    "num": 479,
+    "types": [
+      "electric",
+      "water"
+    ],
+    "weight_kg": 0.3
+  },
+  "sableye": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 75,
+      "hp": 50,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "sableye",
+    "num": 302,
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "weight_kg": 11.0
+  },
+  "salamence": {
+    "base_stats": {
+      "attack": 135,
+      "defense": 80,
+      "hp": 95,
+      "special-attack": 110,
+      "special-defense": 80,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "salamence",
+    "num": 373,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "weight_kg": 102.6
+  },
+  "samurott": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 85,
+      "hp": 95,
+      "special-attack": 108,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "samurott",
+    "num": 503,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 94.6
+  },
+  "sandslash": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 110,
+      "hp": 75,
+      "special-attack": 45,
+      "special-defense": 55,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "sandslash",
+    "num": 28,
+    "types": [
+      "ground",
+      "typeless"
+    ],
+    "weight_kg": 29.5
+  },
+  "sawk": {
+    "base_stats": {
+      "attack": 125,
+      "defense": 75,
+      "hp": 75,
+      "special-attack": 30,
+      "special-defense": 75,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "sawk",
+    "num": 539,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 51.0
+  },
+  "sawsbuck": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 70,
+      "hp": 80,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "sawsbuck",
+    "num": 586,
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "weight_kg": 92.5
+  },
+  "sceptile": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 65,
+      "hp": 70,
+      "special-attack": 105,
+      "special-defense": 85,
+      "speed": 120
+    },
+    "has_physical_attacks": true,
+    "name": "sceptile",
+    "num": 254,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 52.2
+  },
+  "scizor": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 100,
+      "hp": 70,
+      "special-attack": 55,
+      "special-defense": 80,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "scizor",
+    "num": 212,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "weight_kg": 118.0
+  },
+  "scolipede": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 89,
+      "hp": 60,
+      "special-attack": 55,
+      "special-defense": 69,
+      "speed": 112
+    },
+    "has_physical_attacks": true,
+    "name": "scolipede",
+    "num": 545,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "weight_kg": 200.5
+  },
+  "scrafty": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 115,
+      "hp": 65,
+      "special-attack": 45,
+      "special-defense": 115,
+      "speed": 58
+    },
+    "has_physical_attacks": true,
+    "name": "scrafty",
+    "num": 560,
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "weight_kg": 30.0
+  },
+  "scyther": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 80,
+      "hp": 70,
+      "special-attack": 55,
+      "special-defense": 80,
+      "speed": 105
+    },
+    "has_physical_attacks": true,
+    "name": "scyther",
+    "num": 123,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 56.0
+  },
+  "seaking": {
+    "base_stats": {
+      "attack": 92,
+      "defense": 65,
+      "hp": 80,
+      "special-attack": 65,
+      "special-defense": 80,
+      "speed": 68
+    },
+    "has_physical_attacks": true,
+    "name": "seaking",
+    "num": 119,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 39.0
+  },
+  "seismitoad": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 75,
+      "hp": 105,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 74
+    },
+    "has_physical_attacks": true,
+    "name": "seismitoad",
+    "num": 537,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "weight_kg": 62.0
+  },
+  "serperior": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 95,
+      "hp": 75,
+      "special-attack": 75,
+      "special-defense": 95,
+      "speed": 113
+    },
+    "has_physical_attacks": true,
+    "name": "serperior",
+    "num": 497,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 63.0
+  },
+  "seviper": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 60,
+      "hp": 73,
+      "special-attack": 100,
+      "special-defense": 60,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "seviper",
+    "num": 336,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 52.5
+  },
+  "sharpedo": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 40,
+      "hp": 70,
+      "special-attack": 95,
+      "special-defense": 40,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "sharpedo",
+    "num": 319,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "weight_kg": 88.8
+  },
+  "shaymin": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": false,
+    "name": "shaymin",
+    "num": 492,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 2.1
+  },
+  "shayminsky": {
+    "base_stats": {
+      "attack": 103,
+      "defense": 75,
+      "hp": 100,
+      "special-attack": 120,
+      "special-defense": 75,
+      "speed": 127
+    },
+    "has_physical_attacks": false,
+    "name": "shayminsky",
+    "num": 492,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "weight_kg": 5.2
+  },
+  "shedinja": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 45,
+      "hp": 1,
+      "special-attack": 30,
+      "special-defense": 30,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "shedinja",
+    "num": 292,
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "weight_kg": 1.2
+  },
+  "shiftry": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 60,
+      "hp": 90,
+      "special-attack": 90,
+      "special-defense": 60,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "shiftry",
+    "num": 275,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "weight_kg": 59.6
+  },
+  "shuckle": {
+    "base_stats": {
+      "attack": 10,
+      "defense": 230,
+      "hp": 20,
+      "special-attack": 10,
+      "special-defense": 230,
+      "speed": 5
+    },
+    "has_physical_attacks": true,
+    "name": "shuckle",
+    "num": 213,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "weight_kg": 20.5
+  },
+  "sigilyph": {
+    "base_stats": {
+      "attack": 58,
+      "defense": 80,
+      "hp": 72,
+      "special-attack": 103,
+      "special-defense": 80,
+      "speed": 97
+    },
+    "has_physical_attacks": false,
+    "name": "sigilyph",
+    "num": 561,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "weight_kg": 14.0
+  },
+  "simipour": {
+    "base_stats": {
+      "attack": 98,
+      "defense": 63,
+      "hp": 75,
+      "special-attack": 98,
+      "special-defense": 63,
+      "speed": 101
+    },
+    "has_physical_attacks": false,
+    "name": "simipour",
+    "num": 516,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 29.0
+  },
+  "simisage": {
+    "base_stats": {
+      "attack": 98,
+      "defense": 63,
+      "hp": 75,
+      "special-attack": 98,
+      "special-defense": 63,
+      "speed": 101
+    },
+    "has_physical_attacks": true,
+    "name": "simisage",
+    "num": 512,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 30.5
+  },
+  "simisear": {
+    "base_stats": {
+      "attack": 98,
+      "defense": 63,
+      "hp": 75,
+      "special-attack": 98,
+      "special-defense": 63,
+      "speed": 101
+    },
+    "has_physical_attacks": false,
+    "name": "simisear",
+    "num": 514,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 28.0
+  },
+  "skarmory": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 140,
+      "hp": 65,
+      "special-attack": 40,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "skarmory",
+    "num": 227,
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "weight_kg": 50.5
+  },
+  "skuntank": {
+    "base_stats": {
+      "attack": 93,
+      "defense": 67,
+      "hp": 103,
+      "special-attack": 71,
+      "special-defense": 61,
+      "speed": 84
+    },
+    "has_physical_attacks": true,
+    "name": "skuntank",
+    "num": 435,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "weight_kg": 38.0
+  },
+  "slaking": {
+    "base_stats": {
+      "attack": 160,
+      "defense": 100,
+      "hp": 150,
+      "special-attack": 95,
+      "special-defense": 65,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "slaking",
+    "num": 289,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 130.5
+  },
+  "slowbro": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 110,
+      "hp": 95,
+      "special-attack": 100,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "has_physical_attacks": false,
+    "name": "slowbro",
+    "num": 80,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "weight_kg": 78.5
+  },
+  "slowking": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 80,
+      "hp": 95,
+      "special-attack": 100,
+      "special-defense": 110,
+      "speed": 30
+    },
+    "has_physical_attacks": false,
+    "name": "slowking",
+    "num": 199,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "weight_kg": 79.5
+  },
+  "smeargle": {
+    "base_stats": {
+      "attack": 20,
+      "defense": 35,
+      "hp": 55,
+      "special-attack": 20,
+      "special-defense": 45,
+      "speed": 75
+    },
+    "has_physical_attacks": false,
+    "name": "smeargle",
+    "num": 235,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 58.0
+  },
+  "snorlax": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 65,
+      "hp": 160,
+      "special-attack": 65,
+      "special-defense": 110,
+      "speed": 30
+    },
+    "has_physical_attacks": true,
+    "name": "snorlax",
+    "num": 143,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 460.0
+  },
+  "solrock": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 85,
+      "hp": 90,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "solrock",
+    "num": 338,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "weight_kg": 154.0
+  },
+  "spinda": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 60,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 60
+    },
+    "has_physical_attacks": true,
+    "name": "spinda",
+    "num": 327,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 5.0
+  },
+  "spiritomb": {
+    "base_stats": {
+      "attack": 92,
+      "defense": 108,
+      "hp": 50,
+      "special-attack": 92,
+      "special-defense": 108,
+      "speed": 35
+    },
+    "has_physical_attacks": true,
+    "name": "spiritomb",
+    "num": 442,
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "weight_kg": 108.0
+  },
+  "stantler": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 62,
+      "hp": 73,
+      "special-attack": 85,
+      "special-defense": 65,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "stantler",
+    "num": 234,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 71.2
+  },
+  "staraptor": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 70,
+      "hp": 85,
+      "special-attack": 50,
+      "special-defense": 60,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "staraptor",
+    "num": 398,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 24.9
+  },
+  "starmie": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 85,
+      "hp": 60,
+      "special-attack": 100,
+      "special-defense": 85,
+      "speed": 115
+    },
+    "has_physical_attacks": true,
+    "name": "starmie",
+    "num": 121,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "weight_kg": 80.0
+  },
+  "steelix": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 200,
+      "hp": 75,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 30
+    },
+    "has_physical_attacks": true,
+    "name": "steelix",
+    "num": 208,
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "weight_kg": 400.0
+  },
+  "stoutland": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 90,
+      "hp": 85,
+      "special-attack": 45,
+      "special-defense": 90,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "stoutland",
+    "num": 508,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 61.0
+  },
+  "stunfisk": {
+    "base_stats": {
+      "attack": 66,
+      "defense": 84,
+      "hp": 109,
+      "special-attack": 81,
+      "special-defense": 99,
+      "speed": 32
+    },
+    "has_physical_attacks": false,
+    "name": "stunfisk",
+    "num": 618,
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "weight_kg": 11.0
+  },
+  "sudowoodo": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 115,
+      "hp": 70,
+      "special-attack": 30,
+      "special-defense": 65,
+      "speed": 30
+    },
+    "has_physical_attacks": true,
+    "name": "sudowoodo",
+    "num": 185,
+    "types": [
+      "rock",
+      "typeless"
+    ],
+    "weight_kg": 38.0
+  },
+  "suicune": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 115,
+      "hp": 100,
+      "special-attack": 90,
+      "special-defense": 115,
+      "speed": 85
+    },
+    "has_physical_attacks": false,
+    "name": "suicune",
+    "num": 245,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 187.0
+  },
+  "sunflora": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 55,
+      "hp": 75,
+      "special-attack": 105,
+      "special-defense": 85,
+      "speed": 30
+    },
+    "has_physical_attacks": false,
+    "name": "sunflora",
+    "num": 192,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 8.5
+  },
+  "swalot": {
+    "base_stats": {
+      "attack": 73,
+      "defense": 83,
+      "hp": 100,
+      "special-attack": 73,
+      "special-defense": 83,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "swalot",
+    "num": 317,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 80.0
+  },
+  "swampert": {
+    "base_stats": {
+      "attack": 110,
+      "defense": 90,
+      "hp": 100,
+      "special-attack": 85,
+      "special-defense": 90,
+      "speed": 60
+    },
+    "has_physical_attacks": true,
+    "name": "swampert",
+    "num": 260,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "weight_kg": 81.9
+  },
+  "swanna": {
+    "base_stats": {
+      "attack": 87,
+      "defense": 63,
+      "hp": 75,
+      "special-attack": 87,
+      "special-defense": 63,
+      "speed": 98
+    },
+    "has_physical_attacks": true,
+    "name": "swanna",
+    "num": 581,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "weight_kg": 24.2
+  },
+  "swellow": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 60,
+      "hp": 60,
+      "special-attack": 75,
+      "special-defense": 50,
+      "speed": 125
+    },
+    "has_physical_attacks": true,
+    "name": "swellow",
+    "num": 277,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 19.8
+  },
+  "swoobat": {
+    "base_stats": {
+      "attack": 57,
+      "defense": 55,
+      "hp": 67,
+      "special-attack": 77,
+      "special-defense": 55,
+      "speed": 114
+    },
+    "has_physical_attacks": false,
+    "name": "swoobat",
+    "num": 528,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "weight_kg": 10.5
+  },
+  "tangrowth": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 125,
+      "hp": 100,
+      "special-attack": 110,
+      "special-defense": 50,
+      "speed": 50
+    },
+    "has_physical_attacks": true,
+    "name": "tangrowth",
+    "num": 465,
+    "types": [
+      "grass",
+      "typeless"
+    ],
+    "weight_kg": 128.6
+  },
+  "tauros": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 95,
+      "hp": 75,
+      "special-attack": 40,
+      "special-defense": 70,
+      "speed": 110
+    },
+    "has_physical_attacks": true,
+    "name": "tauros",
+    "num": 128,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 88.4
+  },
+  "tentacruel": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 65,
+      "hp": 80,
+      "special-attack": 80,
+      "special-defense": 120,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "tentacruel",
+    "num": 73,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "weight_kg": 55.0
+  },
+  "terrakion": {
+    "base_stats": {
+      "attack": 129,
+      "defense": 90,
+      "hp": 91,
+      "special-attack": 72,
+      "special-defense": 90,
+      "speed": 108
+    },
+    "has_physical_attacks": true,
+    "name": "terrakion",
+    "num": 639,
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "weight_kg": 260.0
+  },
+  "throh": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 85,
+      "hp": 120,
+      "special-attack": 30,
+      "special-defense": 85,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "throh",
+    "num": 538,
+    "types": [
+      "fighting",
+      "typeless"
+    ],
+    "weight_kg": 55.5
+  },
+  "thundurus": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 70,
+      "hp": 79,
+      "special-attack": 125,
+      "special-defense": 80,
+      "speed": 111
+    },
+    "has_physical_attacks": true,
+    "name": "thundurus",
+    "num": 642,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "weight_kg": 61.0
+  },
+  "thundurustherian": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 70,
+      "hp": 79,
+      "special-attack": 145,
+      "special-defense": 80,
+      "speed": 101
+    },
+    "has_physical_attacks": false,
+    "name": "thundurustherian",
+    "num": 642,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "weight_kg": 61.0
+  },
+  "togekiss": {
+    "base_stats": {
+      "attack": 50,
+      "defense": 95,
+      "hp": 85,
+      "special-attack": 120,
+      "special-defense": 115,
+      "speed": 80
+    },
+    "has_physical_attacks": false,
+    "name": "togekiss",
+    "num": 468,
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "weight_kg": 38.0
+  },
+  "torkoal": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 140,
+      "hp": 70,
+      "special-attack": 85,
+      "special-defense": 70,
+      "speed": 20
+    },
+    "has_physical_attacks": true,
+    "name": "torkoal",
+    "num": 324,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 80.4
+  },
+  "tornadus": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 70,
+      "hp": 79,
+      "special-attack": 125,
+      "special-defense": 80,
+      "speed": 111
+    },
+    "has_physical_attacks": true,
+    "name": "tornadus",
+    "num": 641,
+    "types": [
+      "flying",
+      "typeless"
+    ],
+    "weight_kg": 63.0
+  },
+  "tornadustherian": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 80,
+      "hp": 79,
+      "special-attack": 110,
+      "special-defense": 90,
+      "speed": 121
+    },
+    "has_physical_attacks": true,
+    "name": "tornadustherian",
+    "num": 641,
+    "types": [
+      "flying",
+      "typeless"
+    ],
+    "weight_kg": 63.0
+  },
+  "torterra": {
+    "base_stats": {
+      "attack": 109,
+      "defense": 105,
+      "hp": 95,
+      "special-attack": 75,
+      "special-defense": 85,
+      "speed": 56
+    },
+    "has_physical_attacks": true,
+    "name": "torterra",
+    "num": 389,
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "weight_kg": 310.0
+  },
+  "toxicroak": {
+    "base_stats": {
+      "attack": 106,
+      "defense": 65,
+      "hp": 83,
+      "special-attack": 86,
+      "special-defense": 65,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "toxicroak",
+    "num": 454,
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "weight_kg": 44.4
+  },
+  "tropius": {
+    "base_stats": {
+      "attack": 68,
+      "defense": 83,
+      "hp": 99,
+      "special-attack": 72,
+      "special-defense": 87,
+      "speed": 51
+    },
+    "has_physical_attacks": false,
+    "name": "tropius",
+    "num": 357,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "weight_kg": 100.0
+  },
+  "typhlosion": {
+    "base_stats": {
+      "attack": 84,
+      "defense": 78,
+      "hp": 78,
+      "special-attack": 109,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "has_physical_attacks": false,
+    "name": "typhlosion",
+    "num": 157,
+    "types": [
+      "fire",
+      "typeless"
+    ],
+    "weight_kg": 79.5
+  },
+  "tyranitar": {
+    "base_stats": {
+      "attack": 134,
+      "defense": 110,
+      "hp": 100,
+      "special-attack": 95,
+      "special-defense": 100,
+      "speed": 61
+    },
+    "has_physical_attacks": true,
+    "name": "tyranitar",
+    "num": 248,
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "weight_kg": 202.0
+  },
+  "umbreon": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 110,
+      "hp": 95,
+      "special-attack": 60,
+      "special-defense": 130,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "umbreon",
+    "num": 197,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 27.0
+  },
+  "unfezant": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 80,
+      "hp": 80,
+      "special-attack": 65,
+      "special-defense": 55,
+      "speed": 93
+    },
+    "has_physical_attacks": true,
+    "name": "unfezant",
+    "num": 521,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "weight_kg": 29.0
+  },
+  "unown": {
+    "base_stats": {
+      "attack": 72,
+      "defense": 48,
+      "hp": 48,
+      "special-attack": 72,
+      "special-defense": 48,
+      "speed": 48
+    },
+    "has_physical_attacks": false,
+    "name": "unown",
+    "num": 201,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 5.0
+  },
+  "ursaring": {
+    "base_stats": {
+      "attack": 130,
+      "defense": 75,
+      "hp": 90,
+      "special-attack": 75,
+      "special-defense": 75,
+      "speed": 55
+    },
+    "has_physical_attacks": true,
+    "name": "ursaring",
+    "num": 217,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 125.8
+  },
+  "uxie": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 130,
+      "hp": 75,
+      "special-attack": 75,
+      "special-defense": 130,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "uxie",
+    "num": 480,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 0.3
+  },
+  "vanilluxe": {
+    "base_stats": {
+      "attack": 95,
+      "defense": 85,
+      "hp": 71,
+      "special-attack": 110,
+      "special-defense": 95,
+      "speed": 79
+    },
+    "has_physical_attacks": true,
+    "name": "vanilluxe",
+    "num": 584,
+    "types": [
+      "ice",
+      "typeless"
+    ],
+    "weight_kg": 57.5
+  },
+  "vaporeon": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 60,
+      "hp": 130,
+      "special-attack": 110,
+      "special-defense": 95,
+      "speed": 65
+    },
+    "has_physical_attacks": false,
+    "name": "vaporeon",
+    "num": 134,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 29.0
+  },
+  "venomoth": {
+    "base_stats": {
+      "attack": 65,
+      "defense": 60,
+      "hp": 70,
+      "special-attack": 90,
+      "special-defense": 75,
+      "speed": 90
+    },
+    "has_physical_attacks": false,
+    "name": "venomoth",
+    "num": 49,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "weight_kg": 12.5
+  },
+  "venusaur": {
+    "base_stats": {
+      "attack": 82,
+      "defense": 83,
+      "hp": 80,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "has_physical_attacks": true,
+    "name": "venusaur",
+    "num": 3,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "weight_kg": 100.0
+  },
+  "vespiquen": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 102,
+      "hp": 70,
+      "special-attack": 80,
+      "special-defense": 102,
+      "speed": 40
+    },
+    "has_physical_attacks": true,
+    "name": "vespiquen",
+    "num": 416,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 38.5
+  },
+  "victini": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 100,
+      "hp": 100,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "victini",
+    "num": 494,
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "weight_kg": 4.0
+  },
+  "victreebel": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 65,
+      "hp": 80,
+      "special-attack": 100,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "has_physical_attacks": true,
+    "name": "victreebel",
+    "num": 71,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "weight_kg": 15.5
+  },
+  "vigoroth": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 80,
+      "hp": 80,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "vigoroth",
+    "num": 288,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 46.5
+  },
+  "vileplume": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 85,
+      "hp": 75,
+      "special-attack": 110,
+      "special-defense": 90,
+      "speed": 50
+    },
+    "has_physical_attacks": false,
+    "name": "vileplume",
+    "num": 45,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "weight_kg": 18.6
+  },
+  "virizion": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 72,
+      "hp": 91,
+      "special-attack": 90,
+      "special-defense": 129,
+      "speed": 108
+    },
+    "has_physical_attacks": true,
+    "name": "virizion",
+    "num": 640,
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "weight_kg": 200.0
+  },
+  "volbeat": {
+    "base_stats": {
+      "attack": 73,
+      "defense": 75,
+      "hp": 65,
+      "special-attack": 47,
+      "special-defense": 85,
+      "speed": 85
+    },
+    "has_physical_attacks": true,
+    "name": "volbeat",
+    "num": 313,
+    "types": [
+      "bug",
+      "typeless"
+    ],
+    "weight_kg": 17.7
+  },
+  "volcarona": {
+    "base_stats": {
+      "attack": 60,
+      "defense": 65,
+      "hp": 85,
+      "special-attack": 135,
+      "special-defense": 105,
+      "speed": 100
+    },
+    "has_physical_attacks": false,
+    "name": "volcarona",
+    "num": 637,
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "weight_kg": 46.0
+  },
+  "wailord": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 45,
+      "hp": 170,
+      "special-attack": 90,
+      "special-defense": 45,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "wailord",
+    "num": 321,
+    "types": [
+      "water",
+      "typeless"
+    ],
+    "weight_kg": 398.0
+  },
+  "walrein": {
+    "base_stats": {
+      "attack": 80,
+      "defense": 90,
+      "hp": 110,
+      "special-attack": 95,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "has_physical_attacks": true,
+    "name": "walrein",
+    "num": 365,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "weight_kg": 150.6
+  },
+  "watchog": {
+    "base_stats": {
+      "attack": 85,
+      "defense": 69,
+      "hp": 60,
+      "special-attack": 60,
+      "special-defense": 69,
+      "speed": 77
+    },
+    "has_physical_attacks": true,
+    "name": "watchog",
+    "num": 505,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 27.0
+  },
+  "weavile": {
+    "base_stats": {
+      "attack": 120,
+      "defense": 65,
+      "hp": 70,
+      "special-attack": 45,
+      "special-defense": 85,
+      "speed": 125
+    },
+    "has_physical_attacks": true,
+    "name": "weavile",
+    "num": 461,
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "weight_kg": 34.0
+  },
+  "weezing": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 120,
+      "hp": 65,
+      "special-attack": 85,
+      "special-defense": 70,
+      "speed": 60
+    },
+    "has_physical_attacks": false,
+    "name": "weezing",
+    "num": 110,
+    "types": [
+      "poison",
+      "typeless"
+    ],
+    "weight_kg": 9.5
+  },
+  "whimsicott": {
+    "base_stats": {
+      "attack": 67,
+      "defense": 85,
+      "hp": 60,
+      "special-attack": 77,
+      "special-defense": 75,
+      "speed": 116
+    },
+    "has_physical_attacks": true,
+    "name": "whimsicott",
+    "num": 547,
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "weight_kg": 6.6
+  },
+  "whiscash": {
+    "base_stats": {
+      "attack": 78,
+      "defense": 73,
+      "hp": 110,
+      "special-attack": 76,
+      "special-defense": 71,
+      "speed": 60
+    },
+    "has_physical_attacks": true,
+    "name": "whiscash",
+    "num": 340,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "weight_kg": 23.6
+  },
+  "wigglytuff": {
+    "base_stats": {
+      "attack": 70,
+      "defense": 45,
+      "hp": 140,
+      "special-attack": 85,
+      "special-defense": 50,
+      "speed": 45
+    },
+    "has_physical_attacks": true,
+    "name": "wigglytuff",
+    "num": 40,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "weight_kg": 12.0
+  },
+  "wobbuffet": {
+    "base_stats": {
+      "attack": 33,
+      "defense": 58,
+      "hp": 190,
+      "special-attack": 33,
+      "special-defense": 58,
+      "speed": 33
+    },
+    "has_physical_attacks": true,
+    "name": "wobbuffet",
+    "num": 202,
+    "types": [
+      "psychic",
+      "typeless"
+    ],
+    "weight_kg": 28.5
+  },
+  "wormadam": {
+    "base_stats": {
+      "attack": 59,
+      "defense": 85,
+      "hp": 60,
+      "special-attack": 79,
+      "special-defense": 105,
+      "speed": 36
+    },
+    "has_physical_attacks": false,
+    "name": "wormadam",
+    "num": 413,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "weight_kg": 6.5
+  },
+  "wormadamsandy": {
+    "base_stats": {
+      "attack": 79,
+      "defense": 105,
+      "hp": 60,
+      "special-attack": 59,
+      "special-defense": 85,
+      "speed": 36
+    },
+    "has_physical_attacks": true,
+    "name": "wormadamsandy",
+    "num": 413,
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "weight_kg": 6.5
+  },
+  "wormadamtrash": {
+    "base_stats": {
+      "attack": 69,
+      "defense": 95,
+      "hp": 60,
+      "special-attack": 69,
+      "special-defense": 95,
+      "speed": 36
+    },
+    "has_physical_attacks": true,
+    "name": "wormadamtrash",
+    "num": 413,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "weight_kg": 6.5
+  },
+  "xatu": {
+    "base_stats": {
+      "attack": 75,
+      "defense": 70,
+      "hp": 65,
+      "special-attack": 95,
+      "special-defense": 70,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "xatu",
+    "num": 178,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "weight_kg": 15.0
+  },
+  "yanmega": {
+    "base_stats": {
+      "attack": 76,
+      "defense": 86,
+      "hp": 86,
+      "special-attack": 116,
+      "special-defense": 56,
+      "speed": 95
+    },
+    "has_physical_attacks": true,
+    "name": "yanmega",
+    "num": 469,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "weight_kg": 51.5
+  },
+  "zangoose": {
+    "base_stats": {
+      "attack": 115,
+      "defense": 60,
+      "hp": 73,
+      "special-attack": 60,
+      "special-defense": 60,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "zangoose",
+    "num": 335,
+    "types": [
+      "normal",
+      "typeless"
+    ],
+    "weight_kg": 40.3
+  },
+  "zapdos": {
+    "base_stats": {
+      "attack": 90,
+      "defense": 85,
+      "hp": 90,
+      "special-attack": 125,
+      "special-defense": 90,
+      "speed": 100
+    },
+    "has_physical_attacks": true,
+    "name": "zapdos",
+    "num": 145,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "weight_kg": 52.6
+  },
+  "zebstrika": {
+    "base_stats": {
+      "attack": 100,
+      "defense": 63,
+      "hp": 75,
+      "special-attack": 80,
+      "special-defense": 63,
+      "speed": 116
+    },
+    "has_physical_attacks": true,
+    "name": "zebstrika",
+    "num": 523,
+    "types": [
+      "electric",
+      "typeless"
+    ],
+    "weight_kg": 79.5
+  },
+  "zekrom": {
+    "base_stats": {
+      "attack": 150,
+      "defense": 120,
+      "hp": 100,
+      "special-attack": 120,
+      "special-defense": 100,
+      "speed": 90
+    },
+    "has_physical_attacks": true,
+    "name": "zekrom",
+    "num": 644,
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "weight_kg": 345.0
+  },
+  "zoroark": {
+    "base_stats": {
+      "attack": 105,
+      "defense": 60,
+      "hp": 60,
+      "special-attack": 120,
+      "special-defense": 60,
+      "speed": 105
+    },
+    "has_physical_attacks": true,
+    "name": "zoroark",
+    "num": 571,
+    "types": [
+      "dark",
+      "typeless"
+    ],
+    "weight_kg": 81.1
+  }
+}
